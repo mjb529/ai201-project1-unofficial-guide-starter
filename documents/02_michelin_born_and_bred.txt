@@ -1,0 +1,29 @@
+TITLE: Michelin Guide: Born and Bred
+SOURCE_TYPE: Michelin Guide restaurant entry
+URL: https://guide.michelin.com/us/en/seoul-capital-area/kr-seoul/restaurant/born-and-bred
+RELEVANCE_STATUS: kept after relevance audit
+COLLECTION_DATE: 2026-06-11
+CLEANING_PROCESS: Michelin text was summarized and converted into structured notes; short factual phrases only. Kept dish and neighborhood metadata for retrieval.
+
+DOCUMENT_TEXT:
+Born and Bred / 본앤브레드
+Cuisine focus: premium Korean barbecue / hanwoo beef.
+Neighborhood context: Cheongdam / Gangnam luxury dining scene.
+Why it matters: It is not a century-old 노포, but it is a nationally recognized modern temple of hanwoo. It belongs in the guide as the high-end beef counterpoint to older soup/noodle institutions.
+
+Source notes:
+Michelin describes Born and Bred as a premium Majang-dong beef specialist. The restaurant is associated with meticulous beef sourcing and a more curated beef-dining format than a casual barbecue shop. It is often discussed as a splurge meal, and the Beli/Instagram seed list also flags it as one of the highest-rated Seoul experiences.
+
+Retrieval-friendly expanded summary:
+Born and Bred is a destination for travelers who want the most polished version of Korean beef culture. Its value is not simply that it serves grilled beef, but that it turns hanwoo selection, cutting, sequencing, and service into a tasting experience. For a Seoul travel assistant, it should answer questions like: “Where should I splurge on hanwoo?” “What is the most premium Korean beef restaurant?” “What is a memorable fine dining meat experience?”
+
+Recommended query-answer behavior:
+- Recommend it for high-budget users, omakase-style beef, special occasion, hanwoo education, luxury dining.
+- Do not recommend it for old local 노포, cheap eats, solo budget meals, or street food.
+- Pair it with lower-cost beef or soup traditions if the user wants local authenticity over luxury.
+
+Korean keywords:
+본앤브레드, 한우, 마장동, 청담동, 강남 한우, 한우 오마카세, 서울 고기 맛집, 프리미엄 한우.
+
+Assessment:
+Relevant, but modern and expensive. Keep because it is in the user's seed list and has Michelin validation. It should not crowd out older dish-specific places.

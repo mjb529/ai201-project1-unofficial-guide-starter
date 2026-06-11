@@ -1,0 +1,29 @@
+TITLE: Michelin Guide: Gwanghwamun Gukbap
+SOURCE_TYPE: Michelin Guide restaurant entry
+URL: https://guide.michelin.com/us/en/seoul-capital-area/kr-seoul/restaurant/gwanghwamun-gukbap
+RELEVANCE_STATUS: kept after relevance audit
+COLLECTION_DATE: 2026-06-11
+CLEANING_PROCESS: Expanded from Michelin public listing into dish, crowd, and itinerary notes; no long copying.
+
+DOCUMENT_TEXT:
+Gwanghwamun Gukbap / 광화문국밥
+Cuisine focus: dwaeji-gukbap / 돼지국밥.
+Signature dish: pork-and-rice soup with a clean broth, pork slices, chives, rice, and kkakdugi.
+Neighborhood context: office district around Gwanghwamun / Seodaemun / City Hall.
+
+Source notes:
+Michelin identifies the restaurant with chef Park Chan-il and describes a clear, mild pork soup built around black-pig pork. The listing notes the balanced bowl, freshly cooked rice, kkakdugi, and long weekday lunch queues in a busy office area.
+
+Why locals care:
+Gukbap is not a fancy food category; it is an everyday working-person meal. Gwanghwamun Gukbap is valuable because it elevates that category while preserving its core: broth, rice, pork, kimchi/radish, speed, and comfort. For a travel guide, this is a good answer when the user wants something local, efficient, and culturally specific without going full fine dining.
+
+How to recommend:
+- Best for lunch near palaces, Gwanghwamun, Seoul Museum of History, City Hall, Deoksugung, or office areas.
+- Good for a first gukbap experience because the broth is cleaner and more approachable than some heavy regional bowls.
+- Expect weekday lunch lines; go off-peak if possible.
+
+Korean source/retrieval terms:
+광화문국밥, 돼지국밥, 박찬일 셰프, 흑돼지, 깍두기, 광화문 점심, 서울 국밥 맛집, 미쉐린 돼지국밥.
+
+Local relevance judgment:
+Highly relevant. It is not the oldest restaurant in the corpus, but it is dish-specific, Korean, Michelin-recognized, and popular with office workers. It fits “true local recommendation” better than generic tourist-list restaurants.

@@ -1,0 +1,28 @@
+TITLE: Reddit KoreaTravel restaurant threads
+SOURCE_TYPE: Forum / crowd-sourced recommendations
+URL: https://www.reddit.com/r/koreatravel/comments/16uvtur/great_restaurants_in_myeongdong/
+RELEVANCE_STATUS: kept after relevance audit
+COLLECTION_DATE: 2026-06-11
+CLEANING_PROCESS: Summarized public thread-level content and retained source limitations; no mass copying of comments.
+
+DOCUMENT_TEXT:
+Reddit / r/koreatravel restaurant threads
+Source type: crowd-sourced forum discussions.
+Use in corpus: practical traveler questions, recent lived experience, warnings, and gaps in guidebook coverage.
+
+Expanded guide text:
+Reddit is not authoritative in the same way as Michelin or Visit Seoul, but it captures the kinds of questions travelers actually ask: where to eat in Myeongdong, whether a place is touristy, how to handle reservations, which markets are worth it, and whether a restaurant is solo-friendly. For retrieval, that is valuable because user questions often sound more like Reddit posts than guidebook headings.
+
+How to use this source:
+- Use for practical details: lines, reservation difficulty, tourist traps, solo dining, English-friendliness, neighborhood planning.
+- Avoid treating single comments as factual proof.
+- Cross-check restaurant names against stronger sources before making a firm recommendation.
+
+Relevance to old local spots:
+Reddit often helps identify whether a famous old spot still works for visitors. For example, it can confirm that central neighborhoods like Myeongdong/Jongno/Euljiro are common bases and that travelers need nearby reliable restaurants, making Hadongkwan, Andongjang, Woo Lae Oak, Imun Seolnongtang, and Gwangjang Market particularly useful.
+
+Keywords:
+reddit koreatravel Seoul restaurants, Myeongdong restaurants, local Seoul food, where to eat Seoul, solo dining Seoul, reservation Seoul.
+
+Relevance assessment:
+Relevant as a crowd-sourced layer, but not a primary old-restaurant source.

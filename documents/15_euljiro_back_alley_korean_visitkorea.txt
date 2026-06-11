@@ -1,0 +1,28 @@
+TITLE: Euljiro back alleys: Visit Korea Korean source
+SOURCE_TYPE: Visit Korea Korean travel article
+URL: https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=089a4363-ae72-4b0c-840f-7d05ae4db98d
+RELEVANCE_STATUS: kept after relevance audit
+COLLECTION_DATE: 2026-06-11
+CLEANING_PROCESS: Expanded from Korean Visit Korea article; preserved Korean old-restaurant mentions and neighborhood activity context.
+
+DOCUMENT_TEXT:
+Euljiro back alleys / 을지로 뒷골목
+Activity focus: old Seoul industrial alleys, retro cafés/bars, old restaurants, Seun Sangga, Cheonggyecheon.
+Food relevance: Woo Lae Oak, Munhwaok, Yangmiok, old coffee shops/bars, kalguksu/mandu houses.
+
+Korean source material:
+Visit Korea Korean describes Euljiro alleys as including restaurants such as Yangmiok, kalguksu/mandu spots, and farther around Euljiro 4-ga, Woo Lae Oak with about 70 years of Pyongyang naengmyeon tradition and Munhwaok with about 60 years of seolleongtang tradition. The article also situates Seun Sangga as a 1968 mixed-use complex tied to Seoul’s older downtown commercial culture.
+
+Expanded guide text:
+This is the strongest activity source for the “local old Seoul” direction. It lets the assistant recommend not just one restaurant but an itinerary: walk Euljiro’s back alleys, eat naengmyeon or seolleongtang, look at old industrial shops, continue to Cheonggyecheon, and maybe finish with a retro café/bar. Euljiro is especially good for users who want Seoul’s layered city history rather than only palaces and Gangnam.
+
+How to recommend:
+- Recommend for evening walks, photography, retro Seoul, old restaurants, industrial streets, and central-city wandering.
+- Pair Woo Lae Oak, Andongjang, Gwangjang Market, Cheonggyecheon, and Jongmyo.
+- Warn that some alleys are gritty/industrial and hours vary.
+
+Korean keywords:
+을지로 뒷골목, 을지로 노포, 우래옥, 문화옥, 양미옥, 세운상가, 청계천, 서울 골목여행.
+
+Relevance assessment:
+Highly relevant. Korean official travel source and directly tied to old renowned dining.

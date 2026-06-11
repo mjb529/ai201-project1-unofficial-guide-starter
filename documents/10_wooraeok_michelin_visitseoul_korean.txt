@@ -1,0 +1,29 @@
+TITLE: Woo Lae Oak: Michelin + Visit Seoul Korean source dossier
+SOURCE_TYPE: Michelin Guide Korean page + Visit Seoul Korean page
+URL: https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/woo-lae-oak
+RELEVANCE_STATUS: kept after relevance audit
+COLLECTION_DATE: 2026-06-11
+CLEANING_PROCESS: Expanded from Michelin and Visit Seoul Korean material into dish and itinerary notes.
+
+DOCUMENT_TEXT:
+Woo Lae Oak / 우래옥
+Cuisine focus: Pyongyang naengmyeon / 평양냉면; also barbecue / bulgogi context.
+Founding context: Michelin Korean notes Woo Lae Oak opened in 1946 and has maintained its reputation and tradition.
+Neighborhood context: Euljiro / central Seoul old-food corridor.
+
+Korean source material:
+Michelin Korean calls Woo Lae Oak one of Seoul’s best Pyongyang naengmyeon restaurants and emphasizes that broth is a key differentiator among Pyongyang naengmyeon houses. Visit Korea/Seoul-adjacent Korean travel material connects Euljiro’s back alleys with old restaurants and mentions Woo Lae Oak among long-running neighborhood institutions.
+
+Expanded guide text:
+Woo Lae Oak is essential for any Seoul food corpus because Pyongyang naengmyeon is one of the hardest but most culturally meaningful dishes for visitors to understand. It can taste subtle at first. The appeal is the chilled broth, buckwheat noodles, restrained seasoning, and quiet beef aroma. It is not a spicy-sweet tourist cold noodle; it is an old-school dish with devoted local fans.
+
+How to recommend:
+- Recommend for serious food travelers, old Seoul, naengmyeon education, Euljiro/Jongno itineraries.
+- Warn first-timers that Pyongyang naengmyeon is subtle; people expecting strong spice may prefer Hamhung naengmyeon or bibim naengmyeon.
+- Good contrast with Gangnam Myeonok, which represents Hamhung-style cold noodle culture.
+
+Korean keywords:
+우래옥, 평양냉면, 을지로 맛집, 냉면 노포, 1946년, 미쉐린 평양냉면, 서울 냉면.
+
+Relevance assessment:
+Extremely relevant. This is a top old-renowned dish institution.

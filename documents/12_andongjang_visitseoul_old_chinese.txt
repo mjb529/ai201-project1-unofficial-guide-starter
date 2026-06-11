@@ -1,0 +1,26 @@
+TITLE: Andongjang: Visit Seoul old Chinese restaurant source
+SOURCE_TYPE: Visit Seoul official travel guide
+URL: https://english.visitseoul.net/area/Andongjang-E/ENP012838
+RELEVANCE_STATUS: kept after relevance audit
+COLLECTION_DATE: 2026-06-11
+CLEANING_PROCESS: Expanded from official Visit Seoul page; retained founding date and signature dish terms.
+
+DOCUMENT_TEXT:
+Andongjang / 안동장
+Cuisine focus: old Seoul Chinese-Korean food.
+Signature dish: oyster jjamppong / 굴짬뽕.
+History context: Visit Seoul describes Andongjang as one of the oldest Chinese restaurants in Seoul and says it has kept classic tastes since 1948.
+
+Expanded guide text:
+Andongjang is important because Seoul’s local food history is not only “traditional Korean.” Chinese-Korean restaurants are part of modern Korean urban life, and old Chinese restaurants like Andongjang show how jjamppong, jajangmyeon, and banquet-style Chinese-Korean dishes became everyday Seoul food. Its oyster jjamppong makes it dish-specific rather than generic.
+
+How to recommend:
+- Recommend for travelers interested in old Seoul beyond barbecue and soup.
+- Recommend for Euljiro / Jongno / central Seoul exploration.
+- Mention that the key order is usually gul-jjamppong / oyster spicy noodle soup.
+
+Korean keywords:
+안동장, 굴짬뽕, 중식 노포, 서울 오래된 중국집, 을지로 맛집, 1948년, 짬뽕 맛집.
+
+Relevance assessment:
+Very relevant. Official source, old date, specific dish, central Seoul location. Keep.

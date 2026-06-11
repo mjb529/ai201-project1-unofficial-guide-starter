@@ -1,0 +1,30 @@
+TITLE: YouTube Seoul food vlogs filtered for transcript-style notes
+SOURCE_TYPE: YouTube vlog/source notes
+URL: https://www.youtube.com/results?search_query=seoul+old+restaurant+food+vlog
+RELEVANCE_STATUS: kept after relevance audit
+COLLECTION_DATE: 2026-06-11
+CLEANING_PROCESS: Manual transcript-style summaries from public video themes; avoids claiming exact transcript where unavailable.
+
+DOCUMENT_TEXT:
+YouTube Seoul food vlogs
+Source type: video/social travel food material.
+Use in corpus: sensory descriptions, itinerary flow, and food-crawl patterns.
+
+Expanded guide text:
+YouTube food vlogs are useful because they show sequence and experience: waiting in line, ordering, sharing, adding noodles, finishing fried rice, walking between stalls, or pairing a meal with a neighborhood. They are less useful for precise history unless the video cites sources. For this project, YouTube should support “what the experience is like,” not “this is the definitive founding date.”
+
+Recommended extracted patterns:
+- Market crawl pattern: Gwangjang Market for bindaetteok, mayak gimbap, yukhoe, kalguksu/mandu.
+- Old downtown pattern: Euljiro/Jongno for naengmyeon, seolleongtang, gomtang, old Chinese-Korean food.
+- Hotpot/noodle pattern: mushroom spicy soup → kalguksu → fried rice.
+- Splurge pattern: hanwoo tasting at Born and Bred or upscale barbecue at Myongwolgwan.
+
+How to use this source:
+- Good for itinerary recommendations and “what should I expect?” answers.
+- Do not over-index on viral places; cross-check with Korean local sources.
+
+Keywords:
+Seoul food vlog, Korean street food, Seoul old restaurants, Seoul market food, 광장시장 유튜브, 을지로 노포 유튜브, 서울 맛집 브이로그.
+
+Relevance assessment:
+Relevant as social/video source material, but secondary to Korean official/blog/Michelin sources.

@@ -1,0 +1,28 @@
+TITLE: Gwangjang Market food sources: Visit/food guides/social/reddit
+SOURCE_TYPE: Market guide + food review sources
+URL: https://www.bonappetit.com/story/mayak-kimbap
+RELEVANCE_STATUS: kept after relevance audit
+COLLECTION_DATE: 2026-06-11
+CLEANING_PROCESS: Compiled from market-food sources and public snippets; includes only short phrases and transformed guide notes.
+
+DOCUMENT_TEXT:
+Gwangjang Market / 광장시장
+Cuisine/activity focus: street food market; bindaetteok, mayak gimbap, yukhoe, kalguksu, mandu, soondae.
+Why it matters: It is both a must-do activity and a food destination.
+
+Source material:
+Public travel/food sources repeatedly identify Gwangjang Market with traditional Korean street foods including bindaetteok, mayak gimbap, yukhoe, soondae, kalguksu, and mandu. Bon Appétit food writing connects mayak gimbap to Gwangjang Market and explains that the mini rolls are associated with a mustard-vinegar dipping sauce. Recent social/reddit snippets emphasize yukhoe as a recurring must-eat item among visitors, while market guides point to stalls such as Buchon Yukhoe and Mo-nyeo Gimbap.
+
+Expanded guide text:
+Gwangjang Market should be included because it gives a visitor a dense food/activity experience in one place. It is touristy now, but not irrelevant: it remains one of the easiest ways to sample several Korean market foods quickly. The right framing is not “hidden gem”; it is “classic market food introduction.”
+
+How to recommend:
+- Recommend for first-time Seoul visitors, groups, street food sampling, rainy/cold days, and quick food crawl itineraries.
+- Tell users to prioritize one or two anchors rather than eating random duplicate stalls: bindaetteok, mayak gimbap, yukhoe, kalguksu/mandu.
+- Pair with Jongmyo Shrine, Cheonggyecheon, Dongdaemun, or Euljiro.
+
+Korean keywords:
+광장시장, 빈대떡, 마약김밥, 육회, 부촌육회, 모녀김밥, 칼국수, 만두, 순대, 서울 시장 맛집.
+
+Relevance assessment:
+Relevant as activity + food, even though not “hidden.” Keep because it is historically significant and dish-rich.

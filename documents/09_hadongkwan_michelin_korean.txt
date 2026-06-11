@@ -1,0 +1,29 @@
+TITLE: Hadongkwan: Michelin Korean page and local old-restaurant reviews
+SOURCE_TYPE: Michelin Guide Korean page + Korean review/social material
+URL: https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/hadongkwan
+RELEVANCE_STATUS: kept after relevance audit
+COLLECTION_DATE: 2026-06-11
+CLEANING_PROCESS: Expanded from Korean Michelin listing and Korean review snippets; preserved dish terminology and old-shop framing.
+
+DOCUMENT_TEXT:
+Hadongkwan / 하동관
+Cuisine focus: gomtang / 곰탕.
+Founding context: Michelin Korean notes the restaurant has maintained its reputation since 1939.
+Location context: Myeongdong / central Seoul.
+
+Korean source material:
+Michelin Korean says 하동관 has maintained a consistent reputation since 1939 and that its gomtang is clean but deep in flavor. Korean social snippets describe it as a representative gomtang house with 80+ years of history and multiple generations of operation.
+
+Expanded guide text:
+Hadongkwan is one of Seoul’s most important beef-soup institutions. It is a better local recommendation than many flashy modern restaurants because it is attached to a specific dish and a long urban memory. A user who asks for “old Seoul food” should hear about Hadongkwan. It is especially useful in Myeongdong, where many travelers are surrounded by tourist restaurants and need a historically meaningful alternative.
+
+How to recommend:
+- Recommend for gomtang, old Myeongdong, central lunch, no-nonsense Korean beef soup.
+- Explain the difference from seolleongtang: gomtang is often clearer and beefier; seolleongtang is usually milkier from bones.
+- Good for solo dining, breakfast/lunch, fast meals, and travelers who want one classic bowl.
+
+Korean keywords:
+하동관, 곰탕, 명동 맛집, 1939년, 서울 노포, 미쉐린 곰탕, 한우 곰탕, 오래된 곰탕집.
+
+Relevance assessment:
+Extremely relevant. Keep as a top local old-restaurant source.

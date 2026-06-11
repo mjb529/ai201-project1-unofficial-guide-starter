@@ -1,0 +1,32 @@
+TITLE: Visit Seoul official food/activity pages filtered for local guide
+SOURCE_TYPE: Official Seoul tourism guide
+URL: https://english.visitseoul.net/restaurants
+RELEVANCE_STATUS: kept after relevance audit
+COLLECTION_DATE: 2026-06-11
+CLEANING_PROCESS: Compiled from Visit Seoul food/activity pages; focuses on official restaurant/activity taxonomy and old-restaurant entries.
+
+DOCUMENT_TEXT:
+Visit Seoul official food and activity guide
+Source type: official tourism guide.
+Use in corpus: verified attractions, restaurant categories, official descriptions, neighborhood planning.
+
+Source material:
+Visit Seoul’s restaurant section organizes Seoul food options across traditional, modern, snack, vegan/halal, neighborhood, and Baeknyeon-gage / long-running store categories. Specific useful entries in this corpus include Andongjang, Jinju Hoegwan, Yeokjeon Hoegwan, and general restaurant/activity pages.
+
+Expanded guide text:
+Visit Seoul is useful because it is not just a listicle. It provides official tourism framing and often includes practical details like neighborhood, phone, category, and edited dates. The best use is to verify that a restaurant or market is visitor-relevant without making the guide feel only foreign-written.
+
+How to use this source:
+- Use for official confirmation of older shops, markets, palaces, neighborhoods, and activity pairings.
+- Use Korean Visit Seoul pages where available to strengthen Korean-language corpus content.
+- For food queries, pair official pages with more opinionated sources like Korean blogs, Michelin, Reddit, and YouTube.
+
+Activity recommendations supported by this official layer:
+- Pair old restaurants with nearby activities: Imun Seolnongtang + Insadong/Jogyesa/Jongno; Hadongkwan + Myeongdong/Namdaemun/Deoksugung; Woo Lae Oak + Euljiro/Cheonggyecheon; Gwangjang Market + Jongmyo/Dongdaemun.
+- Use markets and old alleys as food-centered activities, not just sightseeing stops.
+
+Korean keywords:
+서울 공식 관광정보, 서울 맛집, 백년가게, 서울 노포, 서울 시장, 종로, 을지로, 광장시장, 남대문, 인사동.
+
+Relevance assessment:
+Highly relevant. Official source, Korean material, and useful for activity-plus-food planning.

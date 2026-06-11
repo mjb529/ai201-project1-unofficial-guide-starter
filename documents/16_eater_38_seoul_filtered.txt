@@ -1,0 +1,28 @@
+TITLE: Eater 38 Seoul filtered for local/dish-specific value
+SOURCE_TYPE: International food guide
+URL: https://www.eater.com/maps/best-seoul-restaurants-38
+RELEVANCE_STATUS: kept after relevance audit
+COLLECTION_DATE: 2026-06-11
+CLEANING_PROCESS: Filtered from Eater list to avoid generic relevance; retained only Seoul food-guide value and cross-check utility.
+
+DOCUMENT_TEXT:
+Eater 38 Seoul
+Source type: international food guide / restaurant map.
+Use in corpus: cross-check and discovery layer, not the primary authority for local old restaurants.
+
+Expanded guide text:
+Eater’s Seoul 38 is useful because it offers a broad, frequently updated map of notable Seoul restaurants across old-school, contemporary, casual, and high-end categories. However, for this project it should be filtered. The corpus goal is not “any good restaurant in Seoul”; it is an unofficial guide to local restaurants and activities, especially old renowned dish specialists.
+
+How to use this source:
+- Use it to confirm that a restaurant is internationally visible and still considered notable.
+- Use it for categories that the older sources may under-cover, such as newer Korean dining, wine bars, dessert, or neighborhood restaurants.
+- Do not let it overpower Korean-language sources when the user asks for 노포 or old local spots.
+
+Good retrieval behavior:
+If a user asks “best Seoul restaurants overall,” Eater can support a wide answer. If the user asks “old local renowned spots,” rank Michelin Korean, Visit Seoul Korean, Visit Korea Korean, and Korean blogs/news above Eater.
+
+Keywords:
+Eater Seoul 38, best Seoul restaurants, Seoul restaurant map, food guide, Korean restaurants, Seoul dining.
+
+Relevance assessment:
+Relevant only as a broad cross-check source. Kept, but filtered in README and planning notes so it does not make the corpus generic.

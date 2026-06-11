@@ -1,0 +1,28 @@
+TITLE: Myongwolgwan blog and YouTube review dossier
+SOURCE_TYPE: Korean blog + YouTube/social review notes
+URL: https://daisy3690.tistory.com/113
+RELEVANCE_STATUS: kept after relevance audit
+COLLECTION_DATE: 2026-06-11
+CLEANING_PROCESS: Public Korean blog/social descriptions summarized into structured notes; short Korean descriptors retained.
+
+DOCUMENT_TEXT:
+Myongwolgwan / 명월관
+Cuisine focus: Korean barbecue / high-end Korean dining at Walkerhill.
+Context: Polished hotel-based Korean meat restaurant rather than street-level 노포.
+
+Korean source material:
+Korean blog review language emphasizes a refined Walkerhill experience: tableside grilling, room/private-dining feel, parking, service, and views. This makes it a strong “high-end traditional atmosphere” source but not necessarily the best “old alley local” source.
+
+Expanded guide text:
+Myongwolgwan is best understood as a classic, formal Korean meat meal. It is more institutional and polished than a small neighborhood barbecue shop. For travel planning, it fits users who want Korean barbecue with less chaos, better service, and an upscale environment. It can be recommended for family elders, business meals, or a celebratory meal where comfort and service matter.
+
+How to recommend:
+- Recommend for upscale Korean barbecue, hotel dining, family meal, private-room style dinner.
+- Less ideal for backpacker local food, cheap eats, or the gritty 노포 experience.
+- It can pair with a Walkerhill / Han River / east Seoul itinerary.
+
+Korean keywords:
+명월관, 워커힐 명월관, 한우구이, 갈비, 서울 고급 한식, 가족식사, 상견례, 룸식당.
+
+Relevance assessment:
+Relevant because it is in the seed list and has Korean blog/video material. It should be tagged as “renowned upscale Korean barbecue,” not “old street-level local institution.”

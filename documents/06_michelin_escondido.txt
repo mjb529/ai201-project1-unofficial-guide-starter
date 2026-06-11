@@ -1,0 +1,25 @@
+TITLE: Michelin Guide: Escondido Seoul
+SOURCE_TYPE: Michelin Guide restaurant entry
+URL: https://guide.michelin.com/us/en/seoul-capital-area/kr-seoul/restaurant/escondido
+RELEVANCE_STATUS: kept after relevance audit
+COLLECTION_DATE: 2026-06-11
+CLEANING_PROCESS: Expanded into a relevance note; kept because it is in seed list but labeled non-old-school.
+
+DOCUMENT_TEXT:
+Escondido / 에스콘디도
+Cuisine focus: contemporary / Mexican-influenced dining in Seoul.
+Why included: User seed list gives it 10/10 and Michelin lists the restaurant in Seoul.
+
+Expanded guide text:
+Escondido is useful for a Seoul guide that includes high-end or contemporary restaurants, but it should not be confused with the old local Korean-dish theme. It is a stronger answer for “special dinner,” “interesting modern Seoul dining,” or “non-Korean but excellent in Seoul” than for “old famous Korean dish institution.”
+
+How to recommend:
+- Recommend for a polished dinner, contemporary cuisine, date night, or a break from traditional Korean meals.
+- Do not recommend as a local 노포 or must-eat traditional Seoul dish.
+- Pair with Born and Bred if the user wants high-end, or contrast with Gwanghwamun Gukbap / Hadongkwan / Imun Seolnongtang if they want old-school Korean.
+
+Korean retrieval keywords:
+에스콘디도, 서울 미쉐린, 서울 파인다이닝, 멕시칸, 컨템포러리, 데이트 맛집.
+
+Relevance assessment:
+Relevant to the seed list and Michelin/fine-dining layer, but lower priority for the revised goal of old and renowned local spots. Kept with warning label rather than removed.

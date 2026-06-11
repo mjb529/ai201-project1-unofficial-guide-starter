@@ -1,0 +1,28 @@
+TITLE: Imun Seolnongtang: Michelin + Korean heritage sources
+SOURCE_TYPE: Michelin Guide Korean page + Korean cultural/local sources
+URL: https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/imun-seolnongtang
+RELEVANCE_STATUS: kept after relevance audit
+COLLECTION_DATE: 2026-06-11
+CLEANING_PROCESS: Expanded from Korean Michelin and Seoul/local heritage sources; preserved Korean terms and old-restaurant facts.
+
+DOCUMENT_TEXT:
+Imun Seolnongtang / 이문설농탕 / 이문설렁탕
+Cuisine focus: seolleongtang / 설렁탕.
+Why it matters: One of the most important old restaurants in Seoul and Korea.
+
+Korean source material:
+Michelin Korean describes it as Seoul restaurant permit number one / 서울시 허가 제1호, a family restaurant that has operated through many historical moments. Korean cultural sources describe it as a 100+ year 설농탕 institution that boils beef parts for many hours to produce a milky, rich but clean soup. Seoul-local sources often frame it as “우리나라에서 가장 오래된 식당” or one of the oldest operating restaurants.
+
+Expanded guide text:
+This is exactly the kind of place the revised corpus should emphasize. Imun Seolnongtang is not trendy; its value is continuity. The dish is a milky beef-bone soup eaten with rice, green onion, salt/pepper adjustment, and kimchi. The experience teaches a visitor about Seoul’s old urban food culture: simple soup houses, fast nourishment, office workers, older patrons, and generational dining.
+
+How to recommend:
+- Recommend for old Seoul, historical restaurants, soup, breakfast/lunch, gentle flavors, and a pre/post Insadong or Jongno walk.
+- Explain that 설렁탕 is often seasoned at the table; blandness can be intentional before adding salt, pepper, scallion, or kimchi.
+- Ideal for users asking “what is the oldest restaurant in Seoul?” or “what should I eat near Insadong/Jongno?”
+
+Korean retrieval keywords:
+이문설농탕, 이문설렁탕, 설렁탕, 서울시 허가 제1호, 서울 노포, 종로 맛집, 100년 식당, 오래된 식당.
+
+Relevance assessment:
+Extremely relevant. This should be one of the top-ranked sources for old renowned dish specialists.

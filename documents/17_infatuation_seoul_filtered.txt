@@ -1,0 +1,28 @@
+TITLE: The Infatuation Seoul guide filtered for itinerary value
+SOURCE_TYPE: International restaurant guide
+URL: https://www.theinfatuation.com/seoul/guides/best-restaurants-seoul
+RELEVANCE_STATUS: kept after relevance audit
+COLLECTION_DATE: 2026-06-11
+CLEANING_PROCESS: Filtered to use for traveler-facing descriptions and neighborhood/dining scenarios.
+
+DOCUMENT_TEXT:
+The Infatuation Seoul guide
+Source type: English-language restaurant guide.
+Use in corpus: traveler-facing tone and scenario matching.
+
+Expanded guide text:
+The Infatuation is useful for natural-language travel questions because its restaurant guides often explain when to go, what kind of situation a place fits, and how the meal feels. That makes it helpful for a retrieval-augmented travel assistant. But like Eater, it is not the strongest authority for Korean local old-restaurant history.
+
+How to use this source:
+- Use for queries like “where should I go with friends,” “date night,” “solo meal,” “splurge,” or “best neighborhood for dinner.”
+- Use as a secondary signal for places also supported by Korean or Michelin sources.
+- Do not rely on it alone for claims about founding dates, old-shop status, or local heritage.
+
+Corpus framing:
+This document is kept because the final assistant should be useful to English-speaking travelers. A guide made entirely from Korean sources might be more local but less accessible; a guide made entirely from English listicles would be too touristy. The balance is Korean sources for authority, English guides for usability.
+
+Keywords:
+The Infatuation Seoul, Seoul restaurant guide, where to eat in Seoul, date night Seoul, group dinner Seoul, travel food guide.
+
+Relevance assessment:
+Relevant as supplemental guide material. Lower priority than old Korean restaurant sources.

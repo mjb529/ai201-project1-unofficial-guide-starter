@@ -1,0 +1,27 @@
+TITLE: Gangnam Myeonok official site and Korean review cross-check
+SOURCE_TYPE: Official restaurant site + Korean review
+URL: https://xn--939au0g88jc8l.net/
+RELEVANCE_STATUS: kept after relevance audit
+COLLECTION_DATE: 2026-06-11
+CLEANING_PROCESS: Official page and Korean review snippets were normalized into English/Korean retrieval notes; kept source URL and dish terminology.
+
+DOCUMENT_TEXT:
+Gangnam Myeonok / 강남면옥
+Cuisine focus: Hamhung naengmyeon, galbijjim, mandu, Korean comfort dishes.
+Signature dishes: 함흥냉면, 갈비찜, 만두.
+
+Korean source material:
+- 강남면옥 is presented as a long-running Hamhung naengmyeon specialist with handmade dishes.
+- Korean review language often frames it around 갈비찜과 냉면, especially for families or groups who want a reliable, filling Korean meal.
+- Useful Korean search terms: 강남면옥 함흥냉면, 강남면옥 갈비찜, 강남면옥 만두, 서울 냉면 맛집, 갈비찜 맛집.
+
+Expanded guide text:
+Gangnam Myeonok is important because it hits a practical sweet spot: easier to access than some deeply local market stalls, more traditional than most trendy Gangnam restaurants, and centered on specific Korean dishes rather than vague “Korean food.” Hamhung naengmyeon is typically associated with chewy noodles and a spicy mixed style, while galbijjim gives the table a rich braised short-rib dish that works well for groups. Mandu makes it especially easy to build a meal that feels local without requiring extreme food adventurousness.
+
+How to recommend:
+- Recommend for groups, family meals, first-time Korean comfort food, cold noodles, braised beef short ribs.
+- Recommend when a user wants a high-confidence Seoul meal that is not too experimental.
+- It is a stronger source than a random TikTok recommendation because it has official restaurant presence and Korean-language local review context.
+
+Relevance assessment:
+Relevant and kept. It directly matches the user's seed list and has Korean source material. It is also a better fit for “true local recommendations” than generic Western travel listicles.

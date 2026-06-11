@@ -1,0 +1,25 @@
+TITLE: Yeokjeon Hoegwan: Visit Seoul 97-year bulgogi source
+SOURCE_TYPE: Visit Seoul official travel guide
+URL: https://english.visitseoul.net/area/yukjeon/ENPz0vpvy
+RELEVANCE_STATUS: kept after relevance audit
+COLLECTION_DATE: 2026-06-11
+CLEANING_PROCESS: Expanded from Visit Seoul official page; preserved key facts and dish context.
+
+DOCUMENT_TEXT:
+Yeokjeon Hoegwan / 역전회관
+Cuisine focus: bulgogi / 바싹불고기, house rice wine / 막걸리.
+History context: Visit Seoul describes it as founded in 1929, third-generation, and about 97 years of tradition. It highlights crispy bulgogi grilled over charcoal using beef from Majang-dong and notes its house-made Yeokjeonju makgeolli.
+
+Expanded guide text:
+Yeokjeon Hoegwan is one of the strongest “old and renowned for a dish” sources in the pack. Bulgogi can be generic in tourist restaurants, but here the source points to a distinct house style: crispy/charcoal-grilled bulgogi rather than only saucy tabletop barbecue. It also fits a Mapo itinerary, which is useful because many travelers only know Hongdae/Yeonnam and miss older Mapo dining institutions.
+
+How to recommend:
+- Recommend for old Seoul bulgogi, Mapo, family meals, traditional alcohol pairing.
+- Good alternative when the user wants meat but not a luxury hanwoo omakase.
+- Pair with Gongdeok/Mapo drinking or a Han River evening.
+
+Korean keywords:
+역전회관, 바싹불고기, 마포 맛집, 1929년, 서울 노포, 불고기 맛집, 역전주, 막걸리.
+
+Relevance assessment:
+Extremely relevant. Official source, old date, specific dish. Keep near top.

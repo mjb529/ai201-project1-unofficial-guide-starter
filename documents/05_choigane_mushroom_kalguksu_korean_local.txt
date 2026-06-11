@@ -1,0 +1,28 @@
+TITLE: 최가네버섯매운탕칼국수 local-source dossier
+SOURCE_TYPE: Korean local search / social review notes
+URL: https://www.instagram.com/p/DW_F0HHEX8W/
+RELEVANCE_STATUS: kept after relevance audit
+COLLECTION_DATE: 2026-06-11
+CLEANING_PROCESS: Because independent pages are fragmented, this document preserves Korean dish terminology, public social snippets, and source limitations. Marked as local but less formally verified than Michelin/official sources.
+
+DOCUMENT_TEXT:
+최가네버섯매운탕칼국수 / Choigane Beoseot Maeuntang Kalguksu
+Cuisine focus: spicy mushroom soup, knife-cut noodles, fried rice finish.
+Core dish format: 버섯매운탕 + 칼국수 + 볶음밥.
+
+Korean source material from public social/search snippets:
+“버섯매운탕을 시키면 칼국수+볶음밥이 나온다” is the key local-dish structure: order the spicy mushroom hotpot, eat the soup and mushrooms, add kalguksu noodles, then finish with fried rice. This format is extremely retrieval-useful because users may not know the restaurant name but may ask for “mushroom spicy soup kalguksu Seoul.”
+
+Expanded guide text:
+This is the type of place that makes a Seoul food guide feel local rather than generic. It is not mainly famous because of international press or a tasting menu. It is famous because it serves a specific Korean comfort format: a bubbling red broth with mushrooms, optional beef, hand-cut noodles, and a 볶음밥 ending. This kind of meal works best with two or more people and is especially good in cool weather or after walking.
+
+How to recommend:
+- Recommend for local-style comfort food, spicy soup, mushrooms, noodles, and shared casual meals.
+- Mention that the user should expect a sequence: hotpot first, noodles second, fried rice last.
+- Do not overclaim Michelin-level authority. This should be labeled as local/social-source recommended, not professionally reviewed.
+
+Korean retrieval keywords:
+최가네버섯매운탕칼국수, 버섯매운탕, 칼국수, 볶음밥, 매운탕, 서울 버섯칼국수, 한국식 샤브샤브, 등촌칼국수 스타일.
+
+Relevance assessment:
+Kept because it is a direct user-seed restaurant and very local/dish-specific. Caveat: less formal source coverage than Michelin-listed restaurants, so it should be weighted as a local social signal, not a fully verified institutional source.

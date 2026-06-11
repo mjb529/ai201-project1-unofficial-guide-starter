@@ -1,0 +1,28 @@
+TITLE: Jinju Hoegwan: Visit Seoul Korean + Korean food blog/news
+SOURCE_TYPE: Visit Seoul Korean + Korean blog/news review
+URL: https://korean.visitseoul.net/restaurants/%EC%A7%84%EC%A3%BC%ED%9A%8C%EA%B4%80-K/KOP012654
+RELEVANCE_STATUS: kept after relevance audit
+COLLECTION_DATE: 2026-06-11
+CLEANING_PROCESS: Expanded from Korean Visit Seoul and Korean food blog/news sources; preserved Korean menu terms and historical notes.
+
+DOCUMENT_TEXT:
+Jinju Hoegwan / 진주회관
+Cuisine focus: kongguksu / 콩국수, cold soybean noodles.
+History context: Korean food columns and news sources describe roots in 1962 and a move/settling in Seoul in the 1960s. It is associated with decades of the same recipe and recognition as Seoul Future Heritage / 서울미래유산 and Baeknyeon-gage / 백년가게.
+
+Korean source material:
+Visit Seoul Korean says it is famous for 콩국수, a Korean summer specialty, and notes noodles made with flour, potato starch, and nuts. Korean blog/news material describes the restaurant’s origin as 삼호식당 in Jinju, a Seoul move in 1965, and the present reputation for thick, savory soybean broth.
+
+Expanded guide text:
+Jinju Hoegwan should be a top answer for summer in Seoul. Kongguksu is deceptively simple: cold noodles in a thick soy-milk broth, usually with little garnish. The point is soybean quality, texture, temperature, and noodle chew. For travelers, it is a great example of a famous dish that is not barbecue, fried chicken, or street food.
+
+How to recommend:
+- Recommend in hot weather, especially near City Hall / Deoksugung / Namdaemun.
+- Explain that the broth can be savory and thick; salt/sugar preferences vary by region/person.
+- It may run as a limited/simplified menu during peak summer lunch.
+
+Korean keywords:
+진주회관, 콩국수, 서울 콩국수 맛집, 시청 맛집, 서울미래유산, 백년가게, 1962년, 서소문동.
+
+Relevance assessment:
+Extremely relevant. Strong Korean-language source material and a clearly renowned old dish specialty.

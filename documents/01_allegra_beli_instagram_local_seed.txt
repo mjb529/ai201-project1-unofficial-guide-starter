@@ -1,0 +1,23 @@
+TITLE: Allegra Im / Beli Instagram Seoul restaurant seed list
+SOURCE_TYPE: Instagram/Beli social recommendation
+URL: https://www.instagram.com/p/DYNhqUpmFlb/
+RELEVANCE_STATUS: kept after relevance audit
+COLLECTION_DATE: 2026-06-11
+CLEANING_PROCESS: User-provided + public Instagram search snippets. Kept short social-review snippets and expanded with normalized restaurant entities, dish tags, and cross-check notes; no private Beli data copied.
+
+DOCUMENT_TEXT:
+This source is included as the personal/social seed list that started the corpus. It is useful because it names restaurants that a real social recommender rated extremely highly, but it should not be treated as the only authority. The other documents below cross-check the same places against Michelin, Korean official pages, blogs, market guides, and local 노포 / old-restaurant sources.
+
+Known Allegra/Beli seed ratings from user + visible public snippets:
+- Born and Bred: 9.8/10. Premium hanwoo beef; often discussed as a splurge / omakase-style beef experience.
+- Gangnam Myeonok / 강남면옥: 9.9/10. Hamhung-style naengmyeon, galbijjim, mandu, and Korean comfort dishes.
+- 최가네버섯매운탕칼국수: 9.9/10. Mushroom spicy soup + kalguksu + fried rice format; local-style, dish-specific recommendation.
+- Gwanghwamun Gukbap / 광화문국밥: 9.9/10. Dwaeji-gukbap using pork broth and rice; Michelin-recognized but still everyday-food oriented.
+- Escondido: 10/10. Seoul Michelin-listed contemporary/Mexican-influenced restaurant; less old-school, more high-end/cross-cultural.
+- Myongwolgwan / 명월관: 9.5/10. Walkerhill hotel Korean barbecue / traditional high-end meat experience.
+
+Korean keywords for retrieval:
+서울 맛집, 서울 노포, 강남면옥, 함흥냉면, 갈비찜, 광화문국밥, 돼지국밥, 본앤브레드, 한우 오마카세, 최가네버섯매운탕칼국수, 버섯매운탕, 명월관, 에스콘디도.
+
+Local relevance judgment:
+This is relevant as a modern social curation source, but several restaurants on the list are not old 노포. The best use is as a starting signal. For true old renowned dish specialists, prioritize Imun Seolnongtang, Hadongkwan, Woo Lae Oak, Jinju Hoegwan, Andongjang, Yeokjeon Hoegwan, Gwangjang Market stalls, and Gangnam Myeonok.
