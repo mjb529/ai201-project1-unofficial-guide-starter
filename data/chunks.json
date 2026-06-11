@@ -1,0 +1,542 @@
+[
+  {
+    "id": "01_allegra_beli_instagram_local_seed-0",
+    "text": "Allegra Im / Beli Instagram Seoul restaurant seed list\n\nThis source is included as the personal/social seed list that started the corpus. It is useful because it names restaurants that a real social recommender rated extremely highly, but it should not be treated as the only authority. The other documents below cross-check the same places against Michelin, Korean official pages, blogs, market guides, and local 노포 / old-restaurant sources.",
+    "title": "Allegra Im / Beli Instagram Seoul restaurant seed list",
+    "source_type": "Instagram/Beli social recommendation",
+    "url": "https://www.instagram.com/p/DYNhqUpmFlb/",
+    "source_file": "documents/01_allegra_beli_instagram_local_seed.txt",
+    "chunk_index": 0
+  },
+  {
+    "id": "01_allegra_beli_instagram_local_seed-1",
+    "text": "Allegra Im / Beli Instagram Seoul restaurant seed list\n\ndocuments below cross-check the same places against Michelin, Korean official pages, blogs, market guides, and local 노포 / old-restaurant sources.\nKnown Allegra/Beli seed ratings from user + visible public snippets:\n- Born and Bred: 9.8/10. Premium hanwoo beef; often discussed as a splurge / omakase-style beef experience. - Gangnam Myeonok / 강남면옥: 9.9/10. Hamhung-style naengmyeon, galbijjim, mandu, and Korean comfort dishes. - 최가네버섯매운탕칼국수: 9.9/10. Mushroom spicy soup + kalguksu + fried rice format; local-style, dish-specific recommendation. - Gwanghwamun Gukbap / 광화문국밥: 9.9/10. Dwaeji-gukbap using pork broth and rice; Michelin-recognized but still everyday-food oriented. - Escondido: 10/10. Seoul Michelin-listed contemporary/Mexican-influenced restaurant; less old-school, more high-end/cross-cultural. - Myongwolgwan / 명월관: 9.5/10.",
+    "title": "Allegra Im / Beli Instagram Seoul restaurant seed list",
+    "source_type": "Instagram/Beli social recommendation",
+    "url": "https://www.instagram.com/p/DYNhqUpmFlb/",
+    "source_file": "documents/01_allegra_beli_instagram_local_seed.txt",
+    "chunk_index": 1
+  },
+  {
+    "id": "01_allegra_beli_instagram_local_seed-2",
+    "text": "Allegra Im / Beli Instagram Seoul restaurant seed list\n\n10/10. Seoul Michelin-listed contemporary/Mexican-influenced restaurant; less old-school, more high-end/cross-cultural. - Myongwolgwan / 명월관: 9.5/10.\nWalkerhill hotel Korean barbecue / traditional high-end meat experience.\n\nKorean keywords for retrieval:\n서울 맛집, 서울 노포, 강남면옥, 함흥냉면, 갈비찜, 광화문국밥, 돼지국밥, 본앤브레드, 한우 오마카세, 최가네버섯매운탕칼국수, 버섯매운탕, 명월관, 에스콘디도.\n\nLocal relevance judgment:\nThis is relevant as a modern social curation source, but several restaurants on the list are not old 노포. The best use is as a starting signal. For true old renowned dish specialists, prioritize Imun Seolnongtang, Hadongkwan, Woo Lae Oak, Jinju Hoegwan, Andongjang, Yeokjeon Hoegwan, Gwangjang Market stalls, and Gangnam Myeonok.",
+    "title": "Allegra Im / Beli Instagram Seoul restaurant seed list",
+    "source_type": "Instagram/Beli social recommendation",
+    "url": "https://www.instagram.com/p/DYNhqUpmFlb/",
+    "source_file": "documents/01_allegra_beli_instagram_local_seed.txt",
+    "chunk_index": 2
+  },
+  {
+    "id": "02_michelin_born_and_bred-0",
+    "text": "Michelin Guide: Born and Bred\n\nBorn and Bred / 본앤브레드\nCuisine focus: premium Korean barbecue / hanwoo beef.\nNeighborhood context: Cheongdam / Gangnam luxury dining scene.\nWhy it matters: It is not a century-old 노포, but it is a nationally recognized modern temple of hanwoo. It belongs in the guide as the high-end beef counterpoint to older soup/noodle institutions.\n\nSource notes:\nMichelin describes Born and Bred as a premium Majang-dong beef specialist. The restaurant is associated with meticulous beef sourcing and a more curated beef-dining format than a casual barbecue shop. It is often discussed as a splurge meal, and the Beli/Instagram seed list also flags it as one of the highest-rated Seoul experiences.",
+    "title": "Michelin Guide: Born and Bred",
+    "source_type": "Michelin Guide restaurant entry",
+    "url": "https://guide.michelin.com/us/en/seoul-capital-area/kr-seoul/restaurant/born-and-bred",
+    "source_file": "documents/02_michelin_born_and_bred.txt",
+    "chunk_index": 0
+  },
+  {
+    "id": "02_michelin_born_and_bred-1",
+    "text": "Michelin Guide: Born and Bred\n\nbarbecue shop. It is often discussed as a splurge meal, and the Beli/Instagram seed list also flags it as one of the highest-rated Seoul experiences.\nRetrieval-friendly expanded summary:\nBorn and Bred is a destination for travelers who want the most polished version of Korean beef culture. Its value is not simply that it serves grilled beef, but that it turns hanwoo selection, cutting, sequencing, and service into a tasting experience. For a Seoul travel assistant, it should answer questions like: “Where should I splurge on hanwoo?” “What is the most premium Korean beef restaurant?” “What is a memorable fine dining meat experience?”",
+    "title": "Michelin Guide: Born and Bred",
+    "source_type": "Michelin Guide restaurant entry",
+    "url": "https://guide.michelin.com/us/en/seoul-capital-area/kr-seoul/restaurant/born-and-bred",
+    "source_file": "documents/02_michelin_born_and_bred.txt",
+    "chunk_index": 1
+  },
+  {
+    "id": "02_michelin_born_and_bred-2",
+    "text": "Michelin Guide: Born and Bred\n\nlike: “Where should I splurge on hanwoo?” “What is the most premium Korean beef restaurant?” “What is a memorable fine dining meat experience?”\nRecommended query-answer behavior:\n- Recommend it for high-budget users, omakase-style beef, special occasion, hanwoo education, luxury dining.\n- Do not recommend it for old local 노포, cheap eats, solo budget meals, or street food.\n- Pair it with lower-cost beef or soup traditions if the user wants local authenticity over luxury.\n\nKorean keywords:\n본앤브레드, 한우, 마장동, 청담동, 강남 한우, 한우 오마카세, 서울 고기 맛집, 프리미엄 한우.\n\nAssessment:\nRelevant, but modern and expensive. Keep because it is in the user's seed list and has Michelin validation. It should not crowd out older dish-specific places.",
+    "title": "Michelin Guide: Born and Bred",
+    "source_type": "Michelin Guide restaurant entry",
+    "url": "https://guide.michelin.com/us/en/seoul-capital-area/kr-seoul/restaurant/born-and-bred",
+    "source_file": "documents/02_michelin_born_and_bred.txt",
+    "chunk_index": 2
+  },
+  {
+    "id": "03_michelin_gwanghwamun_gukbap-0",
+    "text": "Michelin Guide: Gwanghwamun Gukbap\n\nGwanghwamun Gukbap / 광화문국밥\nCuisine focus: dwaeji-gukbap / 돼지국밥.\nSignature dish: pork-and-rice soup with a clean broth, pork slices, chives, rice, and kkakdugi.\nNeighborhood context: office district around Gwanghwamun / Seodaemun / City Hall.\n\nSource notes:\nMichelin identifies the restaurant with chef Park Chan-il and describes a clear, mild pork soup built around black-pig pork. The listing notes the balanced bowl, freshly cooked rice, kkakdugi, and long weekday lunch queues in a busy office area.",
+    "title": "Michelin Guide: Gwanghwamun Gukbap",
+    "source_type": "Michelin Guide restaurant entry",
+    "url": "https://guide.michelin.com/us/en/seoul-capital-area/kr-seoul/restaurant/gwanghwamun-gukbap",
+    "source_file": "documents/03_michelin_gwanghwamun_gukbap.txt",
+    "chunk_index": 0
+  },
+  {
+    "id": "03_michelin_gwanghwamun_gukbap-1",
+    "text": "Michelin Guide: Gwanghwamun Gukbap\n\nbuilt around black-pig pork. The listing notes the balanced bowl, freshly cooked rice, kkakdugi, and long weekday lunch queues in a busy office area.\nWhy locals care:\nGukbap is not a fancy food category; it is an everyday working-person meal. Gwanghwamun Gukbap is valuable because it elevates that category while preserving its core: broth, rice, pork, kimchi/radish, speed, and comfort. For a travel guide, this is a good answer when the user wants something local, efficient, and culturally specific without going full fine dining.\n\nHow to recommend:\n- Best for lunch near palaces, Gwanghwamun, Seoul Museum of History, City Hall, Deoksugung, or office areas.\n- Good for a first gukbap experience because the broth is cleaner and more approachable than some heavy regional bowls.\n- Expect weekday lunch lines; go off-peak if possible.",
+    "title": "Michelin Guide: Gwanghwamun Gukbap",
+    "source_type": "Michelin Guide restaurant entry",
+    "url": "https://guide.michelin.com/us/en/seoul-capital-area/kr-seoul/restaurant/gwanghwamun-gukbap",
+    "source_file": "documents/03_michelin_gwanghwamun_gukbap.txt",
+    "chunk_index": 1
+  },
+  {
+    "id": "03_michelin_gwanghwamun_gukbap-2",
+    "text": "Michelin Guide: Gwanghwamun Gukbap\n\nexperience because the broth is cleaner and more approachable than some heavy regional bowls.\n- Expect weekday lunch lines; go off-peak if possible.\nKorean source/retrieval terms:\n광화문국밥, 돼지국밥, 박찬일 셰프, 흑돼지, 깍두기, 광화문 점심, 서울 국밥 맛집, 미쉐린 돼지국밥.\n\nLocal relevance judgment:\nHighly relevant. It is not the oldest restaurant in the corpus, but it is dish-specific, Korean, Michelin-recognized, and popular with office workers. It fits “true local recommendation” better than generic tourist-list restaurants.",
+    "title": "Michelin Guide: Gwanghwamun Gukbap",
+    "source_type": "Michelin Guide restaurant entry",
+    "url": "https://guide.michelin.com/us/en/seoul-capital-area/kr-seoul/restaurant/gwanghwamun-gukbap",
+    "source_file": "documents/03_michelin_gwanghwamun_gukbap.txt",
+    "chunk_index": 2
+  },
+  {
+    "id": "04_gangnam_myeonok_official_korean-0",
+    "text": "Gangnam Myeonok official site and Korean review cross-check\n\nGangnam Myeonok / 강남면옥\nCuisine focus: Hamhung naengmyeon, galbijjim, mandu, Korean comfort dishes.\nSignature dishes: 함흥냉면, 갈비찜, 만두.\n\nKorean source material:\n- 강남면옥 is presented as a long-running Hamhung naengmyeon specialist with handmade dishes.\n- Korean review language often frames it around 갈비찜과 냉면, especially for families or groups who want a reliable, filling Korean meal.\n- Useful Korean search terms: 강남면옥 함흥냉면, 강남면옥 갈비찜, 강남면옥 만두, 서울 냉면 맛집, 갈비찜 맛집.",
+    "title": "Gangnam Myeonok official site and Korean review cross-check",
+    "source_type": "Official restaurant site + Korean review",
+    "url": "https://xn--939au0g88jc8l.net/",
+    "source_file": "documents/04_gangnam_myeonok_official_korean.txt",
+    "chunk_index": 0
+  },
+  {
+    "id": "04_gangnam_myeonok_official_korean-1",
+    "text": "Gangnam Myeonok official site and Korean review cross-check\n\nfor families or groups who want a reliable, filling Korean meal.\n- Useful Korean search terms: 강남면옥 함흥냉면, 강남면옥 갈비찜, 강남면옥 만두, 서울 냉면 맛집, 갈비찜 맛집.\nExpanded guide text:\nGangnam Myeonok is important because it hits a practical sweet spot: easier to access than some deeply local market stalls, more traditional than most trendy Gangnam restaurants, and centered on specific Korean dishes rather than vague “Korean food.” Hamhung naengmyeon is typically associated with chewy noodles and a spicy mixed style, while galbijjim gives the table a rich braised short-rib dish that works well for groups. Mandu makes it especially easy to build a meal that feels local without requiring extreme food adventurousness.",
+    "title": "Gangnam Myeonok official site and Korean review cross-check",
+    "source_type": "Official restaurant site + Korean review",
+    "url": "https://xn--939au0g88jc8l.net/",
+    "source_file": "documents/04_gangnam_myeonok_official_korean.txt",
+    "chunk_index": 1
+  },
+  {
+    "id": "04_gangnam_myeonok_official_korean-2",
+    "text": "Gangnam Myeonok official site and Korean review cross-check\n\ndish that works well for groups. Mandu makes it especially easy to build a meal that feels local without requiring extreme food adventurousness.\nHow to recommend:\n- Recommend for groups, family meals, first-time Korean comfort food, cold noodles, braised beef short ribs.\n- Recommend when a user wants a high-confidence Seoul meal that is not too experimental.\n- It is a stronger source than a random TikTok recommendation because it has official restaurant presence and Korean-language local review context.\n\nRelevance assessment:\nRelevant and kept. It directly matches the user's seed list and has Korean source material. It is also a better fit for “true local recommendations” than generic Western travel listicles.",
+    "title": "Gangnam Myeonok official site and Korean review cross-check",
+    "source_type": "Official restaurant site + Korean review",
+    "url": "https://xn--939au0g88jc8l.net/",
+    "source_file": "documents/04_gangnam_myeonok_official_korean.txt",
+    "chunk_index": 2
+  },
+  {
+    "id": "05_choigane_mushroom_kalguksu_korean_local-0",
+    "text": "최가네버섯매운탕칼국수 local-source dossier\n\n최가네버섯매운탕칼국수 / Choigane Beoseot Maeuntang Kalguksu\nCuisine focus: spicy mushroom soup, knife-cut noodles, fried rice finish.\nCore dish format: 버섯매운탕 + 칼국수 + 볶음밥.\n\nKorean source material from public social/search snippets:\n“버섯매운탕을 시키면 칼국수+볶음밥이 나온다” is the key local-dish structure: order the spicy mushroom hotpot, eat the soup and mushrooms, add kalguksu noodles, then finish with fried rice. This format is extremely retrieval-useful because users may not know the restaurant name but may ask for “mushroom spicy soup kalguksu Seoul.”",
+    "title": "최가네버섯매운탕칼국수 local-source dossier",
+    "source_type": "Korean local search / social review notes",
+    "url": "https://www.instagram.com/p/DW_F0HHEX8W/",
+    "source_file": "documents/05_choigane_mushroom_kalguksu_korean_local.txt",
+    "chunk_index": 0
+  },
+  {
+    "id": "05_choigane_mushroom_kalguksu_korean_local-1",
+    "text": "최가네버섯매운탕칼국수 local-source dossier\n\nrice. This format is extremely retrieval-useful because users may not know the restaurant name but may ask for “mushroom spicy soup kalguksu Seoul.”\nExpanded guide text:\nThis is the type of place that makes a Seoul food guide feel local rather than generic. It is not mainly famous because of international press or a tasting menu. It is famous because it serves a specific Korean comfort format: a bubbling red broth with mushrooms, optional beef, hand-cut noodles, and a 볶음밥 ending. This kind of meal works best with two or more people and is especially good in cool weather or after walking.",
+    "title": "최가네버섯매운탕칼국수 local-source dossier",
+    "source_type": "Korean local search / social review notes",
+    "url": "https://www.instagram.com/p/DW_F0HHEX8W/",
+    "source_file": "documents/05_choigane_mushroom_kalguksu_korean_local.txt",
+    "chunk_index": 1
+  },
+  {
+    "id": "05_choigane_mushroom_kalguksu_korean_local-2",
+    "text": "최가네버섯매운탕칼국수 local-source dossier\n\nhand-cut noodles, and a 볶음밥 ending. This kind of meal works best with two or more people and is especially good in cool weather or after walking.\nHow to recommend:\n- Recommend for local-style comfort food, spicy soup, mushrooms, noodles, and shared casual meals.\n- Mention that the user should expect a sequence: hotpot first, noodles second, fried rice last.\n- Do not overclaim Michelin-level authority. This should be labeled as local/social-source recommended, not professionally reviewed.\n\nKorean retrieval keywords:\n최가네버섯매운탕칼국수, 버섯매운탕, 칼국수, 볶음밥, 매운탕, 서울 버섯칼국수, 한국식 샤브샤브, 등촌칼국수 스타일.",
+    "title": "최가네버섯매운탕칼국수 local-source dossier",
+    "source_type": "Korean local search / social review notes",
+    "url": "https://www.instagram.com/p/DW_F0HHEX8W/",
+    "source_file": "documents/05_choigane_mushroom_kalguksu_korean_local.txt",
+    "chunk_index": 2
+  },
+  {
+    "id": "05_choigane_mushroom_kalguksu_korean_local-3",
+    "text": "최가네버섯매운탕칼국수 local-source dossier\n\nrecommended, not professionally reviewed.\n\nKorean retrieval keywords:\n최가네버섯매운탕칼국수, 버섯매운탕, 칼국수, 볶음밥, 매운탕, 서울 버섯칼국수, 한국식 샤브샤브, 등촌칼국수 스타일.\nRelevance assessment:\nKept because it is a direct user-seed restaurant and very local/dish-specific. Caveat: less formal source coverage than Michelin-listed restaurants, so it should be weighted as a local social signal, not a fully verified institutional source.",
+    "title": "최가네버섯매운탕칼국수 local-source dossier",
+    "source_type": "Korean local search / social review notes",
+    "url": "https://www.instagram.com/p/DW_F0HHEX8W/",
+    "source_file": "documents/05_choigane_mushroom_kalguksu_korean_local.txt",
+    "chunk_index": 3
+  },
+  {
+    "id": "06_michelin_escondido-0",
+    "text": "Michelin Guide: Escondido Seoul\n\nEscondido / 에스콘디도\nCuisine focus: contemporary / Mexican-influenced dining in Seoul.\nWhy included: User seed list gives it 10/10 and Michelin lists the restaurant in Seoul.\n\nExpanded guide text:\nEscondido is useful for a Seoul guide that includes high-end or contemporary restaurants, but it should not be confused with the old local Korean-dish theme. It is a stronger answer for “special dinner,” “interesting modern Seoul dining,” or “non-Korean but excellent in Seoul” than for “old famous Korean dish institution.”",
+    "title": "Michelin Guide: Escondido Seoul",
+    "source_type": "Michelin Guide restaurant entry",
+    "url": "https://guide.michelin.com/us/en/seoul-capital-area/kr-seoul/restaurant/escondido",
+    "source_file": "documents/06_michelin_escondido.txt",
+    "chunk_index": 0
+  },
+  {
+    "id": "06_michelin_escondido-1",
+    "text": "Michelin Guide: Escondido Seoul\n\nanswer for “special dinner,” “interesting modern Seoul dining,” or “non-Korean but excellent in Seoul” than for “old famous Korean dish institution.”\nHow to recommend:\n- Recommend for a polished dinner, contemporary cuisine, date night, or a break from traditional Korean meals.\n- Do not recommend as a local 노포 or must-eat traditional Seoul dish.\n- Pair with Born and Bred if the user wants high-end, or contrast with Gwanghwamun Gukbap / Hadongkwan / Imun Seolnongtang if they want old-school Korean.\n\nKorean retrieval keywords:\n에스콘디도, 서울 미쉐린, 서울 파인다이닝, 멕시칸, 컨템포러리, 데이트 맛집.\n\nRelevance assessment:\nRelevant to the seed list and Michelin/fine-dining layer, but lower priority for the revised goal of old and renowned local spots. Kept with warning label rather than removed.",
+    "title": "Michelin Guide: Escondido Seoul",
+    "source_type": "Michelin Guide restaurant entry",
+    "url": "https://guide.michelin.com/us/en/seoul-capital-area/kr-seoul/restaurant/escondido",
+    "source_file": "documents/06_michelin_escondido.txt",
+    "chunk_index": 1
+  },
+  {
+    "id": "07_myongwolgwan_korean_blog_youtube-0",
+    "text": "Myongwolgwan blog and YouTube review dossier\n\nMyongwolgwan / 명월관\nCuisine focus: Korean barbecue / high-end Korean dining at Walkerhill.\nContext: Polished hotel-based Korean meat restaurant rather than street-level 노포.\n\nKorean source material:\nKorean blog review language emphasizes a refined Walkerhill experience: tableside grilling, room/private-dining feel, parking, service, and views. This makes it a strong “high-end traditional atmosphere” source but not necessarily the best “old alley local” source.",
+    "title": "Myongwolgwan blog and YouTube review dossier",
+    "source_type": "Korean blog + YouTube/social review notes",
+    "url": "https://daisy3690.tistory.com/113",
+    "source_file": "documents/07_myongwolgwan_korean_blog_youtube.txt",
+    "chunk_index": 0
+  },
+  {
+    "id": "07_myongwolgwan_korean_blog_youtube-1",
+    "text": "Myongwolgwan blog and YouTube review dossier\n\nparking, service, and views. This makes it a strong “high-end traditional atmosphere” source but not necessarily the best “old alley local” source.\nExpanded guide text:\nMyongwolgwan is best understood as a classic, formal Korean meat meal. It is more institutional and polished than a small neighborhood barbecue shop. For travel planning, it fits users who want Korean barbecue with less chaos, better service, and an upscale environment. It can be recommended for family elders, business meals, or a celebratory meal where comfort and service matter.\n\nHow to recommend:\n- Recommend for upscale Korean barbecue, hotel dining, family meal, private-room style dinner.\n- Less ideal for backpacker local food, cheap eats, or the gritty 노포 experience.\n- It can pair with a Walkerhill / Han River / east Seoul itinerary.",
+    "title": "Myongwolgwan blog and YouTube review dossier",
+    "source_type": "Korean blog + YouTube/social review notes",
+    "url": "https://daisy3690.tistory.com/113",
+    "source_file": "documents/07_myongwolgwan_korean_blog_youtube.txt",
+    "chunk_index": 1
+  },
+  {
+    "id": "07_myongwolgwan_korean_blog_youtube-2",
+    "text": "Myongwolgwan blog and YouTube review dossier\n\n- Less ideal for backpacker local food, cheap eats, or the gritty 노포 experience.\n- It can pair with a Walkerhill / Han River / east Seoul itinerary.\nKorean keywords:\n명월관, 워커힐 명월관, 한우구이, 갈비, 서울 고급 한식, 가족식사, 상견례, 룸식당.\n\nRelevance assessment:\nRelevant because it is in the seed list and has Korean blog/video material. It should be tagged as “renowned upscale Korean barbecue,” not “old street-level local institution.”",
+    "title": "Myongwolgwan blog and YouTube review dossier",
+    "source_type": "Korean blog + YouTube/social review notes",
+    "url": "https://daisy3690.tistory.com/113",
+    "source_file": "documents/07_myongwolgwan_korean_blog_youtube.txt",
+    "chunk_index": 2
+  },
+  {
+    "id": "08_imun_seolnongtang_michelin_korean-0",
+    "text": "Imun Seolnongtang: Michelin + Korean heritage sources\n\nImun Seolnongtang / 이문설농탕 / 이문설렁탕\nCuisine focus: seolleongtang / 설렁탕.\nWhy it matters: One of the most important old restaurants in Seoul and Korea.\n\nKorean source material:\nMichelin Korean describes it as Seoul restaurant permit number one / 서울시 허가 제1호, a family restaurant that has operated through many historical moments. Korean cultural sources describe it as a 100+ year 설농탕 institution that boils beef parts for many hours to produce a milky, rich but clean soup. Seoul-local sources often frame it as “우리나라에서 가장 오래된 식당” or one of the oldest operating restaurants.",
+    "title": "Imun Seolnongtang: Michelin + Korean heritage sources",
+    "source_type": "Michelin Guide Korean page + Korean cultural/local sources",
+    "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/imun-seolnongtang",
+    "source_file": "documents/08_imun_seolnongtang_michelin_korean.txt",
+    "chunk_index": 0
+  },
+  {
+    "id": "08_imun_seolnongtang_michelin_korean-1",
+    "text": "Imun Seolnongtang: Michelin + Korean heritage sources\n\nhours to produce a milky, rich but clean soup. Seoul-local sources often frame it as “우리나라에서 가장 오래된 식당” or one of the oldest operating restaurants.\nExpanded guide text:\nThis is exactly the kind of place the revised corpus should emphasize. Imun Seolnongtang is not trendy; its value is continuity. The dish is a milky beef-bone soup eaten with rice, green onion, salt/pepper adjustment, and kimchi. The experience teaches a visitor about Seoul’s old urban food culture: simple soup houses, fast nourishment, office workers, older patrons, and generational dining.",
+    "title": "Imun Seolnongtang: Michelin + Korean heritage sources",
+    "source_type": "Michelin Guide Korean page + Korean cultural/local sources",
+    "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/imun-seolnongtang",
+    "source_file": "documents/08_imun_seolnongtang_michelin_korean.txt",
+    "chunk_index": 1
+  },
+  {
+    "id": "08_imun_seolnongtang_michelin_korean-2",
+    "text": "Imun Seolnongtang: Michelin + Korean heritage sources\n\nteaches a visitor about Seoul’s old urban food culture: simple soup houses, fast nourishment, office workers, older patrons, and generational dining.\nHow to recommend:\n- Recommend for old Seoul, historical restaurants, soup, breakfast/lunch, gentle flavors, and a pre/post Insadong or Jongno walk.\n- Explain that 설렁탕 is often seasoned at the table; blandness can be intentional before adding salt, pepper, scallion, or kimchi.\n- Ideal for users asking “what is the oldest restaurant in Seoul?” or “what should I eat near Insadong/Jongno?”\n\nKorean retrieval keywords:\n이문설농탕, 이문설렁탕, 설렁탕, 서울시 허가 제1호, 서울 노포, 종로 맛집, 100년 식당, 오래된 식당.\n\nRelevance assessment:\nExtremely relevant. This should be one of the top-ranked sources for old renowned dish specialists.",
+    "title": "Imun Seolnongtang: Michelin + Korean heritage sources",
+    "source_type": "Michelin Guide Korean page + Korean cultural/local sources",
+    "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/imun-seolnongtang",
+    "source_file": "documents/08_imun_seolnongtang_michelin_korean.txt",
+    "chunk_index": 2
+  },
+  {
+    "id": "09_hadongkwan_michelin_korean-0",
+    "text": "Hadongkwan: Michelin Korean page and local old-restaurant reviews\n\nHadongkwan / 하동관\nCuisine focus: gomtang / 곰탕.\nFounding context: Michelin Korean notes the restaurant has maintained its reputation since 1939.\nLocation context: Myeongdong / central Seoul.\n\nKorean source material:\nMichelin Korean says 하동관 has maintained a consistent reputation since 1939 and that its gomtang is clean but deep in flavor. Korean social snippets describe it as a representative gomtang house with 80+ years of history and multiple generations of operation.",
+    "title": "Hadongkwan: Michelin Korean page and local old-restaurant reviews",
+    "source_type": "Michelin Guide Korean page + Korean review/social material",
+    "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/hadongkwan",
+    "source_file": "documents/09_hadongkwan_michelin_korean.txt",
+    "chunk_index": 0
+  },
+  {
+    "id": "09_hadongkwan_michelin_korean-1",
+    "text": "Hadongkwan: Michelin Korean page and local old-restaurant reviews\n\ndeep in flavor. Korean social snippets describe it as a representative gomtang house with 80+ years of history and multiple generations of operation.\nExpanded guide text:\nHadongkwan is one of Seoul’s most important beef-soup institutions. It is a better local recommendation than many flashy modern restaurants because it is attached to a specific dish and a long urban memory. A user who asks for “old Seoul food” should hear about Hadongkwan. It is especially useful in Myeongdong, where many travelers are surrounded by tourist restaurants and need a historically meaningful alternative.",
+    "title": "Hadongkwan: Michelin Korean page and local old-restaurant reviews",
+    "source_type": "Michelin Guide Korean page + Korean review/social material",
+    "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/hadongkwan",
+    "source_file": "documents/09_hadongkwan_michelin_korean.txt",
+    "chunk_index": 1
+  },
+  {
+    "id": "09_hadongkwan_michelin_korean-2",
+    "text": "Hadongkwan: Michelin Korean page and local old-restaurant reviews\n\nIt is especially useful in Myeongdong, where many travelers are surrounded by tourist restaurants and need a historically meaningful alternative.\nHow to recommend:\n- Recommend for gomtang, old Myeongdong, central lunch, no-nonsense Korean beef soup.\n- Explain the difference from seolleongtang: gomtang is often clearer and beefier; seolleongtang is usually milkier from bones.\n- Good for solo dining, breakfast/lunch, fast meals, and travelers who want one classic bowl.\n\nKorean keywords:\n하동관, 곰탕, 명동 맛집, 1939년, 서울 노포, 미쉐린 곰탕, 한우 곰탕, 오래된 곰탕집.\n\nRelevance assessment:\nExtremely relevant. Keep as a top local old-restaurant source.",
+    "title": "Hadongkwan: Michelin Korean page and local old-restaurant reviews",
+    "source_type": "Michelin Guide Korean page + Korean review/social material",
+    "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/hadongkwan",
+    "source_file": "documents/09_hadongkwan_michelin_korean.txt",
+    "chunk_index": 2
+  },
+  {
+    "id": "10_wooraeok_michelin_visitseoul_korean-0",
+    "text": "Woo Lae Oak: Michelin + Visit Seoul Korean source dossier\n\nWoo Lae Oak / 우래옥\nCuisine focus: Pyongyang naengmyeon / 평양냉면; also barbecue / bulgogi context.\nFounding context: Michelin Korean notes Woo Lae Oak opened in 1946 and has maintained its reputation and tradition.\nNeighborhood context: Euljiro / central Seoul old-food corridor.\n\nKorean source material:\nMichelin Korean calls Woo Lae Oak one of Seoul’s best Pyongyang naengmyeon restaurants and emphasizes that broth is a key differentiator among Pyongyang naengmyeon houses. Visit Korea/Seoul-adjacent Korean travel material connects Euljiro’s back alleys with old restaurants and mentions Woo Lae Oak among long-running neighborhood institutions.",
+    "title": "Woo Lae Oak: Michelin + Visit Seoul Korean source dossier",
+    "source_type": "Michelin Guide Korean page + Visit Seoul Korean page",
+    "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/woo-lae-oak",
+    "source_file": "documents/10_wooraeok_michelin_visitseoul_korean.txt",
+    "chunk_index": 0
+  },
+  {
+    "id": "10_wooraeok_michelin_visitseoul_korean-1",
+    "text": "Woo Lae Oak: Michelin + Visit Seoul Korean source dossier\n\nKorean travel material connects Euljiro’s back alleys with old restaurants and mentions Woo Lae Oak among long-running neighborhood institutions.\nExpanded guide text:\nWoo Lae Oak is essential for any Seoul food corpus because Pyongyang naengmyeon is one of the hardest but most culturally meaningful dishes for visitors to understand. It can taste subtle at first. The appeal is the chilled broth, buckwheat noodles, restrained seasoning, and quiet beef aroma. It is not a spicy-sweet tourist cold noodle; it is an old-school dish with devoted local fans.",
+    "title": "Woo Lae Oak: Michelin + Visit Seoul Korean source dossier",
+    "source_type": "Michelin Guide Korean page + Visit Seoul Korean page",
+    "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/woo-lae-oak",
+    "source_file": "documents/10_wooraeok_michelin_visitseoul_korean.txt",
+    "chunk_index": 1
+  },
+  {
+    "id": "10_wooraeok_michelin_visitseoul_korean-2",
+    "text": "Woo Lae Oak: Michelin + Visit Seoul Korean source dossier\n\nnoodles, restrained seasoning, and quiet beef aroma. It is not a spicy-sweet tourist cold noodle; it is an old-school dish with devoted local fans.\nHow to recommend:\n- Recommend for serious food travelers, old Seoul, naengmyeon education, Euljiro/Jongno itineraries.\n- Warn first-timers that Pyongyang naengmyeon is subtle; people expecting strong spice may prefer Hamhung naengmyeon or bibim naengmyeon.\n- Good contrast with Gangnam Myeonok, which represents Hamhung-style cold noodle culture.\n\nKorean keywords:\n우래옥, 평양냉면, 을지로 맛집, 냉면 노포, 1946년, 미쉐린 평양냉면, 서울 냉면.\n\nRelevance assessment:\nExtremely relevant. This is a top old-renowned dish institution.",
+    "title": "Woo Lae Oak: Michelin + Visit Seoul Korean source dossier",
+    "source_type": "Michelin Guide Korean page + Visit Seoul Korean page",
+    "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/woo-lae-oak",
+    "source_file": "documents/10_wooraeok_michelin_visitseoul_korean.txt",
+    "chunk_index": 2
+  },
+  {
+    "id": "11_jinju_hoegwan_korean_visitseoul_blog-0",
+    "text": "Jinju Hoegwan: Visit Seoul Korean + Korean food blog/news\n\nJinju Hoegwan / 진주회관\nCuisine focus: kongguksu / 콩국수, cold soybean noodles.\nHistory context: Korean food columns and news sources describe roots in 1962 and a move/settling in Seoul in the 1960s. It is associated with decades of the same recipe and recognition as Seoul Future Heritage / 서울미래유산 and Baeknyeon-gage / 백년가게.\n\nKorean source material:\nVisit Seoul Korean says it is famous for 콩국수, a Korean summer specialty, and notes noodles made with flour, potato starch, and nuts. Korean blog/news material describes the restaurant’s origin as 삼호식당 in Jinju, a Seoul move in 1965, and the present reputation for thick, savory soybean broth.",
+    "title": "Jinju Hoegwan: Visit Seoul Korean + Korean food blog/news",
+    "source_type": "Visit Seoul Korean + Korean blog/news review",
+    "url": "https://korean.visitseoul.net/restaurants/%EC%A7%84%EC%A3%BC%ED%9A%8C%EA%B4%80-K/KOP012654",
+    "source_file": "documents/11_jinju_hoegwan_korean_visitseoul_blog.txt",
+    "chunk_index": 0
+  },
+  {
+    "id": "11_jinju_hoegwan_korean_visitseoul_blog-1",
+    "text": "Jinju Hoegwan: Visit Seoul Korean + Korean food blog/news\n\nmaterial describes the restaurant’s origin as 삼호식당 in Jinju, a Seoul move in 1965, and the present reputation for thick, savory soybean broth.\nExpanded guide text:\nJinju Hoegwan should be a top answer for summer in Seoul. Kongguksu is deceptively simple: cold noodles in a thick soy-milk broth, usually with little garnish. The point is soybean quality, texture, temperature, and noodle chew. For travelers, it is a great example of a famous dish that is not barbecue, fried chicken, or street food.\n\nHow to recommend:\n- Recommend in hot weather, especially near City Hall / Deoksugung / Namdaemun.\n- Explain that the broth can be savory and thick; salt/sugar preferences vary by region/person.\n- It may run as a limited/simplified menu during peak summer lunch.\n\nKorean keywords:\n진주회관, 콩국수, 서울 콩국수 맛집, 시청 맛집, 서울미래유산, 백년가게, 1962년, 서소문동.",
+    "title": "Jinju Hoegwan: Visit Seoul Korean + Korean food blog/news",
+    "source_type": "Visit Seoul Korean + Korean blog/news review",
+    "url": "https://korean.visitseoul.net/restaurants/%EC%A7%84%EC%A3%BC%ED%9A%8C%EA%B4%80-K/KOP012654",
+    "source_file": "documents/11_jinju_hoegwan_korean_visitseoul_blog.txt",
+    "chunk_index": 1
+  },
+  {
+    "id": "11_jinju_hoegwan_korean_visitseoul_blog-2",
+    "text": "Jinju Hoegwan: Visit Seoul Korean + Korean food blog/news\n\n- It may run as a limited/simplified menu during peak summer lunch.\n\nKorean keywords:\n진주회관, 콩국수, 서울 콩국수 맛집, 시청 맛집, 서울미래유산, 백년가게, 1962년, 서소문동.\nRelevance assessment:\nExtremely relevant. Strong Korean-language source material and a clearly renowned old dish specialty.",
+    "title": "Jinju Hoegwan: Visit Seoul Korean + Korean food blog/news",
+    "source_type": "Visit Seoul Korean + Korean blog/news review",
+    "url": "https://korean.visitseoul.net/restaurants/%EC%A7%84%EC%A3%BC%ED%9A%8C%EA%B4%80-K/KOP012654",
+    "source_file": "documents/11_jinju_hoegwan_korean_visitseoul_blog.txt",
+    "chunk_index": 2
+  },
+  {
+    "id": "12_andongjang_visitseoul_old_chinese-0",
+    "text": "Andongjang: Visit Seoul old Chinese restaurant source\n\nAndongjang / 안동장\nCuisine focus: old Seoul Chinese-Korean food.\nSignature dish: oyster jjamppong / 굴짬뽕.\nHistory context: Visit Seoul describes Andongjang as one of the oldest Chinese restaurants in Seoul and says it has kept classic tastes since 1948.\n\nExpanded guide text:\nAndongjang is important because Seoul’s local food history is not only “traditional Korean.” Chinese-Korean restaurants are part of modern Korean urban life, and old Chinese restaurants like Andongjang show how jjamppong, jajangmyeon, and banquet-style Chinese-Korean dishes became everyday Seoul food. Its oyster jjamppong makes it dish-specific rather than generic.",
+    "title": "Andongjang: Visit Seoul old Chinese restaurant source",
+    "source_type": "Visit Seoul official travel guide",
+    "url": "https://english.visitseoul.net/area/Andongjang-E/ENP012838",
+    "source_file": "documents/12_andongjang_visitseoul_old_chinese.txt",
+    "chunk_index": 0
+  },
+  {
+    "id": "12_andongjang_visitseoul_old_chinese-1",
+    "text": "Andongjang: Visit Seoul old Chinese restaurant source\n\njajangmyeon, and banquet-style Chinese-Korean dishes became everyday Seoul food. Its oyster jjamppong makes it dish-specific rather than generic.\nHow to recommend:\n- Recommend for travelers interested in old Seoul beyond barbecue and soup.\n- Recommend for Euljiro / Jongno / central Seoul exploration.\n- Mention that the key order is usually gul-jjamppong / oyster spicy noodle soup.\n\nKorean keywords:\n안동장, 굴짬뽕, 중식 노포, 서울 오래된 중국집, 을지로 맛집, 1948년, 짬뽕 맛집.\n\nRelevance assessment:\nVery relevant. Official source, old date, specific dish, central Seoul location. Keep.",
+    "title": "Andongjang: Visit Seoul old Chinese restaurant source",
+    "source_type": "Visit Seoul official travel guide",
+    "url": "https://english.visitseoul.net/area/Andongjang-E/ENP012838",
+    "source_file": "documents/12_andongjang_visitseoul_old_chinese.txt",
+    "chunk_index": 1
+  },
+  {
+    "id": "13_yeokjeon_hoegwan_visitseoul-0",
+    "text": "Yeokjeon Hoegwan: Visit Seoul 97-year bulgogi source\n\nYeokjeon Hoegwan / 역전회관\nCuisine focus: bulgogi / 바싹불고기, house rice wine / 막걸리.\nHistory context: Visit Seoul describes it as founded in 1929, third-generation, and about 97 years of tradition. It highlights crispy bulgogi grilled over charcoal using beef from Majang-dong and notes its house-made Yeokjeonju makgeolli.",
+    "title": "Yeokjeon Hoegwan: Visit Seoul 97-year bulgogi source",
+    "source_type": "Visit Seoul official travel guide",
+    "url": "https://english.visitseoul.net/area/yukjeon/ENPz0vpvy",
+    "source_file": "documents/13_yeokjeon_hoegwan_visitseoul.txt",
+    "chunk_index": 0
+  },
+  {
+    "id": "13_yeokjeon_hoegwan_visitseoul-1",
+    "text": "Yeokjeon Hoegwan: Visit Seoul 97-year bulgogi source\n\n97 years of tradition. It highlights crispy bulgogi grilled over charcoal using beef from Majang-dong and notes its house-made Yeokjeonju makgeolli.\nExpanded guide text:\nYeokjeon Hoegwan is one of the strongest “old and renowned for a dish” sources in the pack. Bulgogi can be generic in tourist restaurants, but here the source points to a distinct house style: crispy/charcoal-grilled bulgogi rather than only saucy tabletop barbecue. It also fits a Mapo itinerary, which is useful because many travelers only know Hongdae/Yeonnam and miss older Mapo dining institutions.\n\nHow to recommend:\n- Recommend for old Seoul bulgogi, Mapo, family meals, traditional alcohol pairing.\n- Good alternative when the user wants meat but not a luxury hanwoo omakase.\n- Pair with Gongdeok/Mapo drinking or a Han River evening.",
+    "title": "Yeokjeon Hoegwan: Visit Seoul 97-year bulgogi source",
+    "source_type": "Visit Seoul official travel guide",
+    "url": "https://english.visitseoul.net/area/yukjeon/ENPz0vpvy",
+    "source_file": "documents/13_yeokjeon_hoegwan_visitseoul.txt",
+    "chunk_index": 1
+  },
+  {
+    "id": "13_yeokjeon_hoegwan_visitseoul-2",
+    "text": "Yeokjeon Hoegwan: Visit Seoul 97-year bulgogi source\n\npairing.\n- Good alternative when the user wants meat but not a luxury hanwoo omakase.\n- Pair with Gongdeok/Mapo drinking or a Han River evening.\nKorean keywords:\n역전회관, 바싹불고기, 마포 맛집, 1929년, 서울 노포, 불고기 맛집, 역전주, 막걸리.\n\nRelevance assessment:\nExtremely relevant. Official source, old date, specific dish. Keep near top.",
+    "title": "Yeokjeon Hoegwan: Visit Seoul 97-year bulgogi source",
+    "source_type": "Visit Seoul official travel guide",
+    "url": "https://english.visitseoul.net/area/yukjeon/ENPz0vpvy",
+    "source_file": "documents/13_yeokjeon_hoegwan_visitseoul.txt",
+    "chunk_index": 2
+  },
+  {
+    "id": "14_gwangjang_market_local_food_sources-0",
+    "text": "Gwangjang Market food sources: Visit/food guides/social/reddit\n\nGwangjang Market / 광장시장\nCuisine/activity focus: street food market; bindaetteok, mayak gimbap, yukhoe, kalguksu, mandu, soondae.\nWhy it matters: It is both a must-do activity and a food destination.",
+    "title": "Gwangjang Market food sources: Visit/food guides/social/reddit",
+    "source_type": "Market guide + food review sources",
+    "url": "https://www.bonappetit.com/story/mayak-kimbap",
+    "source_file": "documents/14_gwangjang_market_local_food_sources.txt",
+    "chunk_index": 0
+  },
+  {
+    "id": "14_gwangjang_market_local_food_sources-1",
+    "text": "Gwangjang Market food sources: Visit/food guides/social/reddit\n\nfood market; bindaetteok, mayak gimbap, yukhoe, kalguksu, mandu, soondae.\nWhy it matters: It is both a must-do activity and a food destination.\nSource material:\nPublic travel/food sources repeatedly identify Gwangjang Market with traditional Korean street foods including bindaetteok, mayak gimbap, yukhoe, soondae, kalguksu, and mandu. Bon Appétit food writing connects mayak gimbap to Gwangjang Market and explains that the mini rolls are associated with a mustard-vinegar dipping sauce. Recent social/reddit snippets emphasize yukhoe as a recurring must-eat item among visitors, while market guides point to stalls such as Buchon Yukhoe and Mo-nyeo Gimbap.",
+    "title": "Gwangjang Market food sources: Visit/food guides/social/reddit",
+    "source_type": "Market guide + food review sources",
+    "url": "https://www.bonappetit.com/story/mayak-kimbap",
+    "source_file": "documents/14_gwangjang_market_local_food_sources.txt",
+    "chunk_index": 1
+  },
+  {
+    "id": "14_gwangjang_market_local_food_sources-2",
+    "text": "Gwangjang Market food sources: Visit/food guides/social/reddit\n\nsnippets emphasize yukhoe as a recurring must-eat item among visitors, while market guides point to stalls such as Buchon Yukhoe and Mo-nyeo Gimbap.\nExpanded guide text:\nGwangjang Market should be included because it gives a visitor a dense food/activity experience in one place. It is touristy now, but not irrelevant: it remains one of the easiest ways to sample several Korean market foods quickly. The right framing is not “hidden gem”; it is “classic market food introduction.”\n\nHow to recommend:\n- Recommend for first-time Seoul visitors, groups, street food sampling, rainy/cold days, and quick food crawl itineraries.\n- Tell users to prioritize one or two anchors rather than eating random duplicate stalls: bindaetteok, mayak gimbap, yukhoe, kalguksu/mandu.\n- Pair with Jongmyo Shrine, Cheonggyecheon, Dongdaemun, or Euljiro.",
+    "title": "Gwangjang Market food sources: Visit/food guides/social/reddit",
+    "source_type": "Market guide + food review sources",
+    "url": "https://www.bonappetit.com/story/mayak-kimbap",
+    "source_file": "documents/14_gwangjang_market_local_food_sources.txt",
+    "chunk_index": 2
+  },
+  {
+    "id": "14_gwangjang_market_local_food_sources-3",
+    "text": "Gwangjang Market food sources: Visit/food guides/social/reddit\n\nrandom duplicate stalls: bindaetteok, mayak gimbap, yukhoe, kalguksu/mandu.\n- Pair with Jongmyo Shrine, Cheonggyecheon, Dongdaemun, or Euljiro.\nKorean keywords:\n광장시장, 빈대떡, 마약김밥, 육회, 부촌육회, 모녀김밥, 칼국수, 만두, 순대, 서울 시장 맛집.\n\nRelevance assessment:\nRelevant as activity + food, even though not “hidden.” Keep because it is historically significant and dish-rich.",
+    "title": "Gwangjang Market food sources: Visit/food guides/social/reddit",
+    "source_type": "Market guide + food review sources",
+    "url": "https://www.bonappetit.com/story/mayak-kimbap",
+    "source_file": "documents/14_gwangjang_market_local_food_sources.txt",
+    "chunk_index": 3
+  },
+  {
+    "id": "15_euljiro_back_alley_korean_visitkorea-0",
+    "text": "Euljiro back alleys: Visit Korea Korean source\n\nEuljiro back alleys / 을지로 뒷골목\nActivity focus: old Seoul industrial alleys, retro cafés/bars, old restaurants, Seun Sangga, Cheonggyecheon.\nFood relevance: Woo Lae Oak, Munhwaok, Yangmiok, old coffee shops/bars, kalguksu/mandu houses.\n\nKorean source material:\nVisit Korea Korean describes Euljiro alleys as including restaurants such as Yangmiok, kalguksu/mandu spots, and farther around Euljiro 4-ga, Woo Lae Oak with about 70 years of Pyongyang naengmyeon tradition and Munhwaok with about 60 years of seolleongtang tradition. The article also situates Seun Sangga as a 1968 mixed-use complex tied to Seoul’s older downtown commercial culture.",
+    "title": "Euljiro back alleys: Visit Korea Korean source",
+    "source_type": "Visit Korea Korean travel article",
+    "url": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=089a4363-ae72-4b0c-840f-7d05ae4db98d",
+    "source_file": "documents/15_euljiro_back_alley_korean_visitkorea.txt",
+    "chunk_index": 0
+  },
+  {
+    "id": "15_euljiro_back_alley_korean_visitkorea-1",
+    "text": "Euljiro back alleys: Visit Korea Korean source\n\nof seolleongtang tradition. The article also situates Seun Sangga as a 1968 mixed-use complex tied to Seoul’s older downtown commercial culture.\nExpanded guide text:\nThis is the strongest activity source for the “local old Seoul” direction. It lets the assistant recommend not just one restaurant but an itinerary: walk Euljiro’s back alleys, eat naengmyeon or seolleongtang, look at old industrial shops, continue to Cheonggyecheon, and maybe finish with a retro café/bar. Euljiro is especially good for users who want Seoul’s layered city history rather than only palaces and Gangnam.",
+    "title": "Euljiro back alleys: Visit Korea Korean source",
+    "source_type": "Visit Korea Korean travel article",
+    "url": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=089a4363-ae72-4b0c-840f-7d05ae4db98d",
+    "source_file": "documents/15_euljiro_back_alley_korean_visitkorea.txt",
+    "chunk_index": 1
+  },
+  {
+    "id": "15_euljiro_back_alley_korean_visitkorea-2",
+    "text": "Euljiro back alleys: Visit Korea Korean source\n\nmaybe finish with a retro café/bar. Euljiro is especially good for users who want Seoul’s layered city history rather than only palaces and Gangnam.\nHow to recommend:\n- Recommend for evening walks, photography, retro Seoul, old restaurants, industrial streets, and central-city wandering.\n- Pair Woo Lae Oak, Andongjang, Gwangjang Market, Cheonggyecheon, and Jongmyo.\n- Warn that some alleys are gritty/industrial and hours vary.\n\nKorean keywords:\n을지로 뒷골목, 을지로 노포, 우래옥, 문화옥, 양미옥, 세운상가, 청계천, 서울 골목여행.\n\nRelevance assessment:\nHighly relevant. Korean official travel source and directly tied to old renowned dining.",
+    "title": "Euljiro back alleys: Visit Korea Korean source",
+    "source_type": "Visit Korea Korean travel article",
+    "url": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=089a4363-ae72-4b0c-840f-7d05ae4db98d",
+    "source_file": "documents/15_euljiro_back_alley_korean_visitkorea.txt",
+    "chunk_index": 2
+  },
+  {
+    "id": "16_eater_38_seoul_filtered-0",
+    "text": "Eater 38 Seoul filtered for local/dish-specific value\n\nEater 38 Seoul\nSource type: international food guide / restaurant map.\nUse in corpus: cross-check and discovery layer, not the primary authority for local old restaurants.\n\nExpanded guide text:\nEater’s Seoul 38 is useful because it offers a broad, frequently updated map of notable Seoul restaurants across old-school, contemporary, casual, and high-end categories. However, for this project it should be filtered. The corpus goal is not “any good restaurant in Seoul”; it is an unofficial guide to local restaurants and activities, especially old renowned dish specialists.",
+    "title": "Eater 38 Seoul filtered for local/dish-specific value",
+    "source_type": "International food guide",
+    "url": "https://www.eater.com/maps/best-seoul-restaurants-38",
+    "source_file": "documents/16_eater_38_seoul_filtered.txt",
+    "chunk_index": 0
+  },
+  {
+    "id": "16_eater_38_seoul_filtered-1",
+    "text": "Eater 38 Seoul filtered for local/dish-specific value\n\ngoal is not “any good restaurant in Seoul”; it is an unofficial guide to local restaurants and activities, especially old renowned dish specialists.\nHow to use this source:\n- Use it to confirm that a restaurant is internationally visible and still considered notable.\n- Use it for categories that the older sources may under-cover, such as newer Korean dining, wine bars, dessert, or neighborhood restaurants.\n- Do not let it overpower Korean-language sources when the user asks for 노포 or old local spots.\n\nGood retrieval behavior:\nIf a user asks “best Seoul restaurants overall,” Eater can support a wide answer. If the user asks “old local renowned spots,” rank Michelin Korean, Visit Seoul Korean, Visit Korea Korean, and Korean blogs/news above Eater.",
+    "title": "Eater 38 Seoul filtered for local/dish-specific value",
+    "source_type": "International food guide",
+    "url": "https://www.eater.com/maps/best-seoul-restaurants-38",
+    "source_file": "documents/16_eater_38_seoul_filtered.txt",
+    "chunk_index": 1
+  },
+  {
+    "id": "16_eater_38_seoul_filtered-2",
+    "text": "Eater 38 Seoul filtered for local/dish-specific value\n\nanswer. If the user asks “old local renowned spots,” rank Michelin Korean, Visit Seoul Korean, Visit Korea Korean, and Korean blogs/news above Eater.\nKeywords:\nEater Seoul 38, best Seoul restaurants, Seoul restaurant map, food guide, Korean restaurants, Seoul dining.\n\nRelevance assessment:\nRelevant only as a broad cross-check source. Kept, but filtered in README and planning notes so it does not make the corpus generic.",
+    "title": "Eater 38 Seoul filtered for local/dish-specific value",
+    "source_type": "International food guide",
+    "url": "https://www.eater.com/maps/best-seoul-restaurants-38",
+    "source_file": "documents/16_eater_38_seoul_filtered.txt",
+    "chunk_index": 2
+  },
+  {
+    "id": "17_infatuation_seoul_filtered-0",
+    "text": "The Infatuation Seoul guide filtered for itinerary value\n\nThe Infatuation Seoul guide\nSource type: English-language restaurant guide.\nUse in corpus: traveler-facing tone and scenario matching.\n\nExpanded guide text:\nThe Infatuation is useful for natural-language travel questions because its restaurant guides often explain when to go, what kind of situation a place fits, and how the meal feels. That makes it helpful for a retrieval-augmented travel assistant. But like Eater, it is not the strongest authority for Korean local old-restaurant history.",
+    "title": "The Infatuation Seoul guide filtered for itinerary value",
+    "source_type": "International restaurant guide",
+    "url": "https://www.theinfatuation.com/seoul/guides/best-restaurants-seoul",
+    "source_file": "documents/17_infatuation_seoul_filtered.txt",
+    "chunk_index": 0
+  },
+  {
+    "id": "17_infatuation_seoul_filtered-1",
+    "text": "The Infatuation Seoul guide filtered for itinerary value\n\nit helpful for a retrieval-augmented travel assistant. But like Eater, it is not the strongest authority for Korean local old-restaurant history.\nHow to use this source:\n- Use for queries like “where should I go with friends,” “date night,” “solo meal,” “splurge,” or “best neighborhood for dinner.”\n- Use as a secondary signal for places also supported by Korean or Michelin sources.\n- Do not rely on it alone for claims about founding dates, old-shop status, or local heritage.\n\nCorpus framing:\nThis document is kept because the final assistant should be useful to English-speaking travelers. A guide made entirely from Korean sources might be more local but less accessible; a guide made entirely from English listicles would be too touristy. The balance is Korean sources for authority, English guides for usability.",
+    "title": "The Infatuation Seoul guide filtered for itinerary value",
+    "source_type": "International restaurant guide",
+    "url": "https://www.theinfatuation.com/seoul/guides/best-restaurants-seoul",
+    "source_file": "documents/17_infatuation_seoul_filtered.txt",
+    "chunk_index": 1
+  },
+  {
+    "id": "17_infatuation_seoul_filtered-2",
+    "text": "The Infatuation Seoul guide filtered for itinerary value\n\na guide made entirely from English listicles would be too touristy. The balance is Korean sources for authority, English guides for usability.\nKeywords:\nThe Infatuation Seoul, Seoul restaurant guide, where to eat in Seoul, date night Seoul, group dinner Seoul, travel food guide.\n\nRelevance assessment:\nRelevant as supplemental guide material. Lower priority than old Korean restaurant sources.",
+    "title": "The Infatuation Seoul guide filtered for itinerary value",
+    "source_type": "International restaurant guide",
+    "url": "https://www.theinfatuation.com/seoul/guides/best-restaurants-seoul",
+    "source_file": "documents/17_infatuation_seoul_filtered.txt",
+    "chunk_index": 2
+  },
+  {
+    "id": "18_reddit_koreatravel_food_threads-0",
+    "text": "Reddit KoreaTravel restaurant threads\n\nReddit / r/koreatravel restaurant threads\nSource type: crowd-sourced forum discussions.\nUse in corpus: practical traveler questions, recent lived experience, warnings, and gaps in guidebook coverage.\n\nExpanded guide text:\nReddit is not authoritative in the same way as Michelin or Visit Seoul, but it captures the kinds of questions travelers actually ask: where to eat in Myeongdong, whether a place is touristy, how to handle reservations, which markets are worth it, and whether a restaurant is solo-friendly. For retrieval, that is valuable because user questions often sound more like Reddit posts than guidebook headings.",
+    "title": "Reddit KoreaTravel restaurant threads",
+    "source_type": "Forum / crowd-sourced recommendations",
+    "url": "https://www.reddit.com/r/koreatravel/comments/16uvtur/great_restaurants_in_myeongdong/",
+    "source_file": "documents/18_reddit_koreatravel_food_threads.txt",
+    "chunk_index": 0
+  },
+  {
+    "id": "18_reddit_koreatravel_food_threads-1",
+    "text": "Reddit KoreaTravel restaurant threads\n\na restaurant is solo-friendly. For retrieval, that is valuable because user questions often sound more like Reddit posts than guidebook headings.\nHow to use this source:\n- Use for practical details: lines, reservation difficulty, tourist traps, solo dining, English-friendliness, neighborhood planning.\n- Avoid treating single comments as factual proof.\n- Cross-check restaurant names against stronger sources before making a firm recommendation.\n\nRelevance to old local spots:\nReddit often helps identify whether a famous old spot still works for visitors. For example, it can confirm that central neighborhoods like Myeongdong/Jongno/Euljiro are common bases and that travelers need nearby reliable restaurants, making Hadongkwan, Andongjang, Woo Lae Oak, Imun Seolnongtang, and Gwangjang Market particularly useful.",
+    "title": "Reddit KoreaTravel restaurant threads",
+    "source_type": "Forum / crowd-sourced recommendations",
+    "url": "https://www.reddit.com/r/koreatravel/comments/16uvtur/great_restaurants_in_myeongdong/",
+    "source_file": "documents/18_reddit_koreatravel_food_threads.txt",
+    "chunk_index": 1
+  },
+  {
+    "id": "18_reddit_koreatravel_food_threads-2",
+    "text": "Reddit KoreaTravel restaurant threads\n\ntravelers need nearby reliable restaurants, making Hadongkwan, Andongjang, Woo Lae Oak, Imun Seolnongtang, and Gwangjang Market particularly useful.\nKeywords:\nreddit koreatravel Seoul restaurants, Myeongdong restaurants, local Seoul food, where to eat Seoul, solo dining Seoul, reservation Seoul.\n\nRelevance assessment:\nRelevant as a crowd-sourced layer, but not a primary old-restaurant source.",
+    "title": "Reddit KoreaTravel restaurant threads",
+    "source_type": "Forum / crowd-sourced recommendations",
+    "url": "https://www.reddit.com/r/koreatravel/comments/16uvtur/great_restaurants_in_myeongdong/",
+    "source_file": "documents/18_reddit_koreatravel_food_threads.txt",
+    "chunk_index": 2
+  },
+  {
+    "id": "19_youtube_seoul_food_vlogs_filtered-0",
+    "text": "YouTube Seoul food vlogs filtered for transcript-style notes\n\nYouTube Seoul food vlogs\nSource type: video/social travel food material.\nUse in corpus: sensory descriptions, itinerary flow, and food-crawl patterns.\n\nExpanded guide text:\nYouTube food vlogs are useful because they show sequence and experience: waiting in line, ordering, sharing, adding noodles, finishing fried rice, walking between stalls, or pairing a meal with a neighborhood. They are less useful for precise history unless the video cites sources. For this project, YouTube should support “what the experience is like,” not “this is the definitive founding date.”",
+    "title": "YouTube Seoul food vlogs filtered for transcript-style notes",
+    "source_type": "YouTube vlog/source notes",
+    "url": "https://www.youtube.com/results?search_query=seoul+old+restaurant+food+vlog",
+    "source_file": "documents/19_youtube_seoul_food_vlogs_filtered.txt",
+    "chunk_index": 0
+  },
+  {
+    "id": "19_youtube_seoul_food_vlogs_filtered-1",
+    "text": "YouTube Seoul food vlogs filtered for transcript-style notes\n\nunless the video cites sources. For this project, YouTube should support “what the experience is like,” not “this is the definitive founding date.”\nRecommended extracted patterns:\n- Market crawl pattern: Gwangjang Market for bindaetteok, mayak gimbap, yukhoe, kalguksu/mandu.\n- Old downtown pattern: Euljiro/Jongno for naengmyeon, seolleongtang, gomtang, old Chinese-Korean food.\n- Hotpot/noodle pattern: mushroom spicy soup → kalguksu → fried rice.\n- Splurge pattern: hanwoo tasting at Born and Bred or upscale barbecue at Myongwolgwan.\n\nHow to use this source:\n- Good for itinerary recommendations and “what should I expect?” answers.\n- Do not over-index on viral places; cross-check with Korean local sources.\n\nKeywords:\nSeoul food vlog, Korean street food, Seoul old restaurants, Seoul market food, 광장시장 유튜브, 을지로 노포 유튜브, 서울 맛집 브이로그.",
+    "title": "YouTube Seoul food vlogs filtered for transcript-style notes",
+    "source_type": "YouTube vlog/source notes",
+    "url": "https://www.youtube.com/results?search_query=seoul+old+restaurant+food+vlog",
+    "source_file": "documents/19_youtube_seoul_food_vlogs_filtered.txt",
+    "chunk_index": 1
+  },
+  {
+    "id": "19_youtube_seoul_food_vlogs_filtered-2",
+    "text": "YouTube Seoul food vlogs filtered for transcript-style notes\n\nKorean local sources.\n\nKeywords:\nSeoul food vlog, Korean street food, Seoul old restaurants, Seoul market food, 광장시장 유튜브, 을지로 노포 유튜브, 서울 맛집 브이로그.\nRelevance assessment:\nRelevant as social/video source material, but secondary to Korean official/blog/Michelin sources.",
+    "title": "YouTube Seoul food vlogs filtered for transcript-style notes",
+    "source_type": "YouTube vlog/source notes",
+    "url": "https://www.youtube.com/results?search_query=seoul+old+restaurant+food+vlog",
+    "source_file": "documents/19_youtube_seoul_food_vlogs_filtered.txt",
+    "chunk_index": 2
+  },
+  {
+    "id": "20_visitseoul_food_activities_korean_official-0",
+    "text": "Visit Seoul official food/activity pages filtered for local guide\n\nVisit Seoul official food and activity guide\nSource type: official tourism guide.\nUse in corpus: verified attractions, restaurant categories, official descriptions, neighborhood planning.\n\nSource material:\nVisit Seoul’s restaurant section organizes Seoul food options across traditional, modern, snack, vegan/halal, neighborhood, and Baeknyeon-gage / long-running store categories. Specific useful entries in this corpus include Andongjang, Jinju Hoegwan, Yeokjeon Hoegwan, and general restaurant/activity pages.",
+    "title": "Visit Seoul official food/activity pages filtered for local guide",
+    "source_type": "Official Seoul tourism guide",
+    "url": "https://english.visitseoul.net/restaurants",
+    "source_file": "documents/20_visitseoul_food_activities_korean_official.txt",
+    "chunk_index": 0
+  },
+  {
+    "id": "20_visitseoul_food_activities_korean_official-1",
+    "text": "Visit Seoul official food/activity pages filtered for local guide\n\nstore categories. Specific useful entries in this corpus include Andongjang, Jinju Hoegwan, Yeokjeon Hoegwan, and general restaurant/activity pages.\nExpanded guide text:\nVisit Seoul is useful because it is not just a listicle. It provides official tourism framing and often includes practical details like neighborhood, phone, category, and edited dates. The best use is to verify that a restaurant or market is visitor-relevant without making the guide feel only foreign-written.\n\nHow to use this source:\n- Use for official confirmation of older shops, markets, palaces, neighborhoods, and activity pairings.\n- Use Korean Visit Seoul pages where available to strengthen Korean-language corpus content.\n- For food queries, pair official pages with more opinionated sources like Korean blogs, Michelin, Reddit, and YouTube.",
+    "title": "Visit Seoul official food/activity pages filtered for local guide",
+    "source_type": "Official Seoul tourism guide",
+    "url": "https://english.visitseoul.net/restaurants",
+    "source_file": "documents/20_visitseoul_food_activities_korean_official.txt",
+    "chunk_index": 1
+  },
+  {
+    "id": "20_visitseoul_food_activities_korean_official-2",
+    "text": "Visit Seoul official food/activity pages filtered for local guide\n\ncorpus content.\n- For food queries, pair official pages with more opinionated sources like Korean blogs, Michelin, Reddit, and YouTube.\nActivity recommendations supported by this official layer:\n- Pair old restaurants with nearby activities: Imun Seolnongtang + Insadong/Jogyesa/Jongno; Hadongkwan + Myeongdong/Namdaemun/Deoksugung; Woo Lae Oak + Euljiro/Cheonggyecheon; Gwangjang Market + Jongmyo/Dongdaemun.\n- Use markets and old alleys as food-centered activities, not just sightseeing stops.\n\nKorean keywords:\n서울 공식 관광정보, 서울 맛집, 백년가게, 서울 노포, 서울 시장, 종로, 을지로, 광장시장, 남대문, 인사동.\n\nRelevance assessment:\nHighly relevant. Official source, Korean material, and useful for activity-plus-food planning.",
+    "title": "Visit Seoul official food/activity pages filtered for local guide",
+    "source_type": "Official Seoul tourism guide",
+    "url": "https://english.visitseoul.net/restaurants",
+    "source_file": "documents/20_visitseoul_food_activities_korean_official.txt",
+    "chunk_index": 2
+  }
+]
