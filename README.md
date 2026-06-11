@@ -206,3 +206,7 @@ Full raw outputs are saved in `data/evaluation_results.json`.
 - *What I gave the AI:* The approved planning sections for chunking, retrieval, generation, and interface.
 - *What it produced:* `ingest.py`, `query.py`, `evaluate.py`, and `app.py`, plus generated chunk/evaluation artifacts.
 - *What I changed or overrode:* I inspected real retrieval results and directed a change from semantic-only retrieval to semantic retrieval plus keyword reranking after the Myeongdong beef-soup and summer-noodle queries exposed weak ranking. I also kept the README failure case instead of hiding the partial cold-noodle result.
+
+**Demo**
+
+https://drive.google.com/file/d/1KMSm2kTFThAekLjJrRdLcz_lu4aroDsQ/view?usp=sharing
