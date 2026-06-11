@@ -43,4 +43,4 @@ with gr.Blocks(title="Unofficial Korea Guide") as demo:
 
 
 if __name__ == "__main__":
-    demo.launch()
+    demo.launch(server_port=8008)

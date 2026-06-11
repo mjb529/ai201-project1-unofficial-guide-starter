@@ -1,162 +1,208 @@
-# The Unofficial Guide — Project 1
-
-> **How to use this template:**
-> Complete each section *after* you've built and tested the corresponding part of your system.
-> Do not write placeholder text — if a section isn't done yet, leave it blank and come back.
-> Every section below is required for submission. One-liners will not receive full credit.
-
----
+# The Unofficial Guide: Seoul Food and Activities
 
 ## Domain
 
-<!-- What topic or category of knowledge does your system cover?
-     Why is this knowledge valuable, and why is it hard to find through official channels?
-     Example: "Student reviews of CS professors at [university] — useful because official
-     course descriptions don't reflect teaching style, exam difficulty, or workload." -->
+This project is an unofficial Korea travel guide focused on Seoul restaurants and food-centered activities. It emphasizes old, renowned, dish-specific local restaurants, market food, and practical itinerary pairings instead of generic "best restaurants" lists.
 
----
+This information is hard to find in one official place because it is scattered across Korean-language tourism pages, Michelin entries, Korean blogs, Reddit threads, YouTube food videos, Instagram/Beli-style social recommendations, and English travel guides. Official sources can verify locations and history, but they rarely explain which places feel local, what dish to order, which places are splurges, or how to combine restaurants with nearby activities.
 
 ## Document Sources
 
-<!-- List every source you collected documents from.
-     Be specific: include URLs, subreddit names, forum thread titles, or file names.
-     Aim for variety — sources that together cover different subtopics or perspectives. -->
+The corpus contains 20 manually collected `.txt` source-note documents in `documents/`. These are not live scrapes; I transformed public source material into structured notes with titles, URLs, source type, collection date, cleaning notes, and retrieval-friendly English/Korean keywords.
 
 | # | Source | Type | URL or file path |
 |---|--------|------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
-
----
+| 1 | Allegra Im / Beli Instagram Seoul seed list | Social recommendation seed | `documents/01_allegra_beli_instagram_local_seed.txt` |
+| 2 | Michelin Guide: Born and Bred | Michelin restaurant entry | `documents/02_michelin_born_and_bred.txt` |
+| 3 | Michelin Guide: Gwanghwamun Gukbap | Michelin restaurant entry | `documents/03_michelin_gwanghwamun_gukbap.txt` |
+| 4 | Gangnam Myeonok official + Korean review notes | Official site + Korean review notes | `documents/04_gangnam_myeonok_official_korean.txt` |
+| 5 | Choigane Beoseot Maeuntang Kalguksu notes | Korean local/social notes | `documents/05_choigane_mushroom_kalguksu_korean_local.txt` |
+| 6 | Michelin Guide: Escondido | Michelin restaurant entry | `documents/06_michelin_escondido.txt` |
+| 7 | Myongwolgwan blog and YouTube notes | Korean blog + YouTube notes | `documents/07_myongwolgwan_korean_blog_youtube.txt` |
+| 8 | Imun Seolnongtang Michelin + Korean heritage notes | Michelin + Korean heritage notes | `documents/08_imun_seolnongtang_michelin_korean.txt` |
+| 9 | Hadongkwan Michelin + Korean review notes | Michelin + Korean review notes | `documents/09_hadongkwan_michelin_korean.txt` |
+| 10 | Woo Lae Oak Michelin + Visit Seoul notes | Michelin + Visit Seoul notes | `documents/10_wooraeok_michelin_visitseoul_korean.txt` |
+| 11 | Jinju Hoegwan Visit Seoul + blog/news notes | Visit Seoul + Korean blog/news | `documents/11_jinju_hoegwan_korean_visitseoul_blog.txt` |
+| 12 | Andongjang Visit Seoul source | Official Visit Seoul page | `documents/12_andongjang_visitseoul_old_chinese.txt` |
+| 13 | Yeokjeon Hoegwan Visit Seoul source | Official Visit Seoul page | `documents/13_yeokjeon_hoegwan_visitseoul.txt` |
+| 14 | Gwangjang Market food sources | Market guide + food/social notes | `documents/14_gwangjang_market_local_food_sources.txt` |
+| 15 | Euljiro back alleys Visit Korea article | Official Visit Korea article | `documents/15_euljiro_back_alley_korean_visitkorea.txt` |
+| 16 | Eater 38 Seoul filtered notes | English food guide | `documents/16_eater_38_seoul_filtered.txt` |
+| 17 | The Infatuation Seoul filtered notes | English restaurant guide | `documents/17_infatuation_seoul_filtered.txt` |
+| 18 | Reddit r/koreatravel food threads | Crowd-sourced forum notes | `documents/18_reddit_koreatravel_food_threads.txt` |
+| 19 | YouTube Seoul food vlog notes | Video/social source notes | `documents/19_youtube_seoul_food_vlogs_filtered.txt` |
+| 20 | Visit Seoul food/activity pages | Official tourism guide | `documents/20_visitseoul_food_activities_korean_official.txt` |
 
 ## Chunking Strategy
 
-<!-- Describe your chunking approach with enough specificity that someone else could reproduce it.
-     Include:
-     - Chunk size (characters or tokens) and why that size fits your documents
-     - Overlap size and why (or why not) you used overlap
-     - Any preprocessing you did before chunking (e.g., stripping HTML, removing headers)
-     - What your final chunk count was across all documents -->
+**Chunk size:** 700 characters target size.  
+**Overlap:** 150 characters.  
+**Final chunk count:** 60 chunks across 20 documents.
 
-**Chunk size:**
+The ingestion pipeline in `ingest.py` loads every `.txt` file, extracts metadata fields such as `TITLE`, `SOURCE_TYPE`, and `URL`, cleans whitespace, then chunks the `DOCUMENT_TEXT` section. I used paragraph-aware chunking first, then sentence splitting for long paragraphs, because the corpus is made of short structured notes rather than long PDFs. A 700-character target usually keeps one complete restaurant/activity idea together, while 150 characters of overlap helps preserve transitions from dish description to recommendation guidance.
 
-**Overlap:**
+### Sample Chunks
 
-**Why these choices fit your documents:**
+1. `documents/08_imun_seolnongtang_michelin_korean.txt`: Imun Seolnongtang is recommended for old Seoul, historical restaurants, soup, breakfast/lunch, gentle flavors, and a pre/post Insadong or Jongno walk. The chunk explains table seasoning with salt, pepper, scallion, or kimchi.
 
-**Final chunk count:**
+2. `documents/09_hadongkwan_michelin_korean.txt`: Hadongkwan is useful in Myeongdong where travelers may want a historically meaningful alternative to tourist restaurants. The chunk recommends gomtang, old Myeongdong, central lunch, and no-nonsense Korean beef soup.
 
----
+3. `documents/11_jinju_hoegwan_korean_visitseoul_blog.txt`: Jinju Hoegwan is described as a top summer answer for kongguksu, cold noodles in thick soy-milk broth. The chunk emphasizes soybean quality, texture, temperature, and noodle chew.
+
+4. `documents/10_wooraeok_michelin_visitseoul_korean.txt`: Woo Lae Oak is described as essential for understanding Pyongyang naengmyeon: chilled broth, buckwheat noodles, restrained seasoning, and quiet beef aroma.
+
+5. `documents/02_michelin_born_and_bred.txt`: Born and Bred is recommended for high-budget users, omakase-style beef, special occasions, hanwoo education, and luxury dining, but not for old local nopos, cheap eats, solo budget meals, or street food.
 
 ## Embedding Model
 
-<!-- Name the embedding model you used and explain your choice.
-     Then answer: if you were deploying this system for real users and cost wasn't a constraint,
-     what tradeoffs would you weigh in choosing a different model?
-     Consider: context length limits, multilingual support, accuracy on domain-specific text,
-     latency, and local vs. API-hosted. -->
+**Model used:** `sentence-transformers/all-MiniLM-L6-v2`
 
-**Model used:**
+I chose this model because it runs locally, is fast, and does not require paid embedding API calls. In production, I would compare it against stronger multilingual embedding models because this corpus mixes English, romanized Korean, and Korean terms such as `평양냉면`, `곰탕`, and `광장시장`. The main tradeoffs would be Korean-language retrieval accuracy, context length, latency, hosting cost, and whether an API-hosted model handles short review/social text better than a small local model.
 
-**Production tradeoff reflection:**
+## Retrieval
 
----
+The vector store uses ChromaDB in `chroma_db/`. `query.py --build` embeds the chunks and stores chunk text plus metadata: title, source type, URL, source file, and chunk index. Retrieval uses semantic search with top-k = 5, then applies a small keyword rerank for clear user intent terms such as "Myeongdong," "summer," "hanwoo," and "cold noodle." I added this rerank after testing showed that semantic-only retrieval sometimes ranked a generally related soup/noodle source above the exact restaurant source.
+
+### Retrieval Test Examples
+
+**Query 1:** "Which Seoul restaurant should I choose if I want one of the oldest local soup institutions near Jongno or Insadong?"
+
+Top returned chunks included:
+- Imun Seolnongtang, distance 0.5408: recommends it for old Seoul, historical restaurants, soup, and a pre/post Insadong or Jongno walk.
+- Andongjang, distance 0.5070: old Seoul Chinese-Korean food near Euljiro/Jongno.
+- Visit Seoul official guide, distance 0.6726: pairs Imun Seolnongtang with Insadong/Jogyesa/Jongno.
+
+Why relevant: Imun Seolnongtang directly answers the old soup/Jongno/Insadong part of the query. Andongjang is only partially relevant because it matches old Seoul and Jongno, but the dish is oyster jjamppong rather than the intended soup institution.
+
+**Query 2:** "I am staying in Myeongdong and want a classic old beef soup instead of a tourist-trap meal. What should I eat?"
+
+Top returned chunks included:
+- Hadongkwan, distance 0.9994: says it is useful in Myeongdong for travelers avoiding tourist restaurants and recommends gomtang / old Myeongdong / no-nonsense Korean beef soup.
+- Hadongkwan, distance 0.8866: describes it as an important beef-soup institution with 80+ years of history.
+- Choigane mushroom kalguksu, distance 0.7473: related Korean comfort soup/noodle content but not the best answer.
+
+Why relevant: The top Hadongkwan chunk directly contains Myeongdong, tourist restaurants, gomtang, and beef soup, so retrieval succeeds despite one off-topic comfort-soup chunk.
+
+**Query 3:** "What is a good summer-specific noodle dish in Seoul, and where should I try it?"
+
+Top returned chunks included:
+- Jinju Hoegwan, distance 0.6247: recommends kongguksu as a summer Seoul dish.
+- Andongjang, distance 0.6117: off-target old noodle/soup source.
+- Woo Lae Oak, distance 0.6143: cold noodle source, relevant to noodles but not summer-specific.
+
+Why relevant: The top chunk directly supports Jinju Hoegwan and kongguksu. The second and third chunks show the system's weakness with broad "noodle" language, which can pull in other noodle sources.
 
 ## Grounded Generation
 
-<!-- Explain how your system enforces grounding — how does it prevent the LLM from answering
-     beyond the retrieved documents?
-     Describe both your system prompt (what instruction you gave the model) and any structural
-     choices (e.g., how you formatted the context, whether you filtered low-relevance chunks).
-     Do not just say "I told it to use the documents" — show the actual instruction or explain
-     the mechanism. -->
-
 **System prompt grounding instruction:**
 
-**How source attribution is surfaced in the response:**
+```text
+You are a grounded RAG assistant for an unofficial Seoul restaurant and activity guide. Answer using only the provided retrieved context. Do not use outside knowledge. If the context does not contain enough information, say exactly: "I don't have enough information in the collected documents to answer that." Cite source numbers like [1] or [2] in the answer whenever you make a claim.
+```
 
----
+Source attribution is surfaced in two ways: the model is instructed to cite source numbers in the answer, and `query.py` also returns a programmatic source list containing source title, local file, and URL. The app displays answer, sources, and retrieved chunks as separate fields.
+
+### Example Responses
+
+**Question:** "I am staying in Myeongdong and want a classic old beef soup instead of a tourist-trap meal. What should I eat?"
+
+**Answer:** The system recommended Hadongkwan for gomtang in Myeongdong, explaining that it is a historically meaningful alternative to tourist restaurants and that gomtang is clearer and beefier than milkier seolleongtang. It cited Hadongkwan chunks in the answer.
+
+**Visible sources:** Hadongkwan Michelin/Korean review source, Choigane mushroom kalguksu source, Myongwolgwan source, and Imun Seolnongtang source.
+
+**Question:** "What place should I choose for a high-budget hanwoo splurge, and what should I not expect from it?"
+
+**Answer:** The system recommended Born and Bred for a premium hanwoo splurge, describing it as a curated beef/omakase-style experience. It warned not to expect an old local nopo, cheap eat, solo budget meal, or street food.
+
+**Visible sources:** Michelin Guide: Born and Bred; Yeokjeon Hoegwan; Allegra/Beli seed list.
+
+**Out-of-scope question:** "What is the best ski resort in Busan?"
+
+**Refusal response:** "I don't have enough information in the collected documents to answer that."
+
+## Query Interface
+
+The project includes both a CLI and a Gradio UI.
+
+Setup:
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+cp .env.example .env
+# add GROQ_API_KEY to .env
+python query.py --build
+```
+
+CLI usage:
+
+```bash
+python query.py "What cold noodle place should I try in Seoul, and how are the styles different?"
+```
+
+Gradio usage:
+
+```bash
+python app.py
+```
+
+Then open `http://127.0.0.1:8008`.
+
+The interface has one input field, `Question`, and three output fields: `Answer`, `Sources`, and `Retrieved chunks`.
+
+Sample interaction transcript:
+
+```text
+Input:
+What is a good summer-specific noodle dish in Seoul, and where should I try it?
+
+Answer:
+For a good summer-specific noodle dish in Seoul, try kongguksu at Jinju Hoegwan. The retrieved context describes kongguksu as cold noodles in a thick soy-milk broth and frames Jinju Hoegwan as a strong summer recommendation near City Hall / Deoksugung / Namdaemun.
+
+Sources:
+Jinju Hoegwan: Visit Seoul Korean + Korean food blog/news
+documents/11_jinju_hoegwan_korean_visitseoul_blog.txt
+```
 
 ## Evaluation Report
 
-<!-- Run your 5 test questions from planning.md through your system and record the results.
-     Be honest — a partially accurate or inaccurate result that you explain well is more
-     valuable than a suspiciously perfect result. -->
-
 | # | Question | Expected answer | System response (summarized) | Retrieval quality | Response accuracy |
 |---|----------|-----------------|------------------------------|-------------------|-------------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
-| 4 | | | | | |
-| 5 | | | | | |
+| 1 | Which Seoul restaurant should I choose if I want one of the oldest local soup institutions near Jongno or Insadong? | Imun Seolnongtang near Jongno/Insadong; old Seoul seolleongtang institution. | Recommended Imun Seolnongtang and also mentioned Hadongkwan. | Relevant | Partially accurate |
+| 2 | I am staying in Myeongdong and want a classic old beef soup instead of a tourist-trap meal. What should I eat? | Hadongkwan for Myeongdong gomtang, dating to 1939 / 80+ years. | Recommended Hadongkwan, explained gomtang, Myeongdong usefulness, and old beef-soup context. | Relevant | Accurate |
+| 3 | What is a good summer-specific noodle dish in Seoul, and where should I try it? | Jinju Hoegwan for kongguksu, especially in hot weather near City Hall / Deoksugung / Namdaemun. | Recommended kongguksu at Jinju Hoegwan and explained cold soy-milk broth. | Partially relevant | Accurate |
+| 4 | What cold noodle place should I try in Seoul, and how are the styles different? | Woo Lae Oak for subtle Pyongyang naengmyeon; Gangnam Myeonok for Hamhung-style naengmyeon. | Recommended Woo Lae Oak and mentioned Gangnam Myeonok, but relied mostly on Woo Lae Oak context. | Partially relevant | Partially accurate |
+| 5 | What place should I choose for a high-budget hanwoo splurge, and what should I not expect from it? | Born and Bred for premium hanwoo; not cheap, old street-level local, or market food. | Recommended Born and Bred and warned it is modern, expensive, and not a cheap nopo/street-food option. | Relevant | Accurate |
 
-**Retrieval quality:** Relevant / Partially relevant / Off-target  
-**Response accuracy:** Accurate / Partially accurate / Inaccurate
-
----
+Full raw outputs are saved in `data/evaluation_results.json`.
 
 ## Failure Case Analysis
 
-<!-- Identify at least one question where retrieval or generation did not work as expected.
-     Write a specific explanation of *why* it failed, tied to a part of the pipeline.
+**Question that failed:** "What cold noodle place should I try in Seoul, and how are the styles different?"
 
-     "The answer was wrong" is not an explanation.
+**What the system returned:** The answer correctly recommended Woo Lae Oak for Pyongyang naengmyeon and mentioned Gangnam Myeonok as a contrast, but the support for Gangnam Myeonok was thin. It also added Jinju Hoegwan/kongguksu, which is a cold noodle dish but not the main naengmyeon comparison the question asked for.
 
-     "The relevant information was split across a chunk boundary, so retrieval returned
-     only half the context — the model didn't have enough to answer correctly" is an explanation.
+**Root cause:** This is a retrieval-stage weakness. The embedding model treats "cold noodle" broadly, so it retrieves Woo Lae Oak and Jinju Hoegwan strongly, plus only one lower-ranked Gangnam Myeonok chunk. Because the strongest retrieved context was about Woo Lae Oak, the generated answer had much more detail for Pyongyang naengmyeon than Hamhung naengmyeon.
 
-     "The embedding model treated the professor's nickname as out-of-vocabulary and returned
-     results from an unrelated review" is an explanation. -->
-
-**Question that failed:**
-
-**What the system returned:**
-
-**Root cause (tied to a specific pipeline stage):**
-
-**What you would change to fix it:**
-
----
+**What I would change:** I would add metadata or tags for dish families such as `naengmyeon`, `kongguksu`, `gukbap`, `gomtang`, and `hanwoo`, then allow metadata filtering or stronger hybrid search. For this query, filtering to `naengmyeon` would keep Woo Lae Oak and Gangnam Myeonok while excluding Jinju Hoegwan.
 
 ## Spec Reflection
 
-<!-- Reflect on how planning.md shaped your implementation.
-     Answer both questions with at least 2–3 sentences each. -->
+**One way the spec helped during implementation:** Writing the spec first made the chunking and retrieval code much more concrete. Instead of asking for a generic RAG pipeline, the implementation had to preserve source titles, URLs, Korean keywords, and dish-specific notes because those were already named in `planning.md`.
 
-**One way the spec helped you during implementation:**
-
-**One way your implementation diverged from the spec, and why:**
-
----
+**One way implementation diverged from the spec, and why:** The original retrieval plan was semantic-only top-k search. After testing, I added a small keyword rerank on top of semantic retrieval because the embedding model sometimes ranked broadly related soup/noodle chunks above exact matches like Hadongkwan for Myeongdong gomtang. I also used Gradio 4.44.1 instead of the assignment's suggested `gradio>=6.9.0` because the available package index did not offer a 6.x release for this environment.
 
 ## AI Usage
 
-<!-- Describe at least 2 specific instances where you used an AI tool during this project.
-     For each: what did you give the AI as input, what did it produce, and what did you
-     change, override, or direct differently?
-
-     "I used Claude to help me code" is not sufficient.
-     "I gave Claude my Chunking Strategy section from planning.md and asked it to implement
-     chunk_text(). It returned a function using a fixed character split. I overrode the
-     chunk size from 500 to 200 because my documents are short reviews, not long guides." -->
-
 **Instance 1**
 
-- *What I gave the AI:*
-- *What it produced:*
-- *What I changed or overrode:*
+- *What I gave the AI:* My domain, the current document corpus, and the planning requirements.
+- *What it produced:* A draft `planning.md` with domain framing, document table, chunking plan, retrieval plan, evaluation questions, anticipated challenges, architecture diagram, and AI tool plan.
+- *What I changed or overrode:* I reviewed the domain fit, asked for final considerations, and added stronger requirements around URL transparency, refusal behavior, and a harder cold-noodle evaluation question before implementation.
 
 **Instance 2**
 
-- *What I gave the AI:*
-- *What it produced:*
-- *What I changed or overrode:*
+- *What I gave the AI:* The approved planning sections for chunking, retrieval, generation, and interface.
+- *What it produced:* `ingest.py`, `query.py`, `evaluate.py`, and `app.py`, plus generated chunk/evaluation artifacts.
+- *What I changed or overrode:* I inspected real retrieval results and directed a change from semantic-only retrieval to semantic retrieval plus keyword reranking after the Myeongdong beef-soup and summer-noodle queries exposed weak ranking. I also kept the README failure case instead of hiding the partial cold-noodle result.
