@@ -1,5 +1,7 @@
 from __future__ import annotations
 
+import os
+
 import gradio as gr
 
 from query import ask
@@ -43,4 +45,4 @@ with gr.Blocks(title="Unofficial Korea Guide") as demo:
 
 
 if __name__ == "__main__":
-    demo.launch(server_port=8008)
+    demo.launch(server_port=int(os.getenv("GRADIO_SERVER_PORT", "8008")))

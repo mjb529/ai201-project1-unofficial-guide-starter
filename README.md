@@ -12,26 +12,26 @@ The corpus contains 20 manually collected `.txt` source-note documents in `docum
 
 | # | Source | Type | URL or file path |
 |---|--------|------|-----------------|
-| 1 | Allegra Im / Beli Instagram Seoul seed list | Social recommendation seed | `documents/01_allegra_beli_instagram_local_seed.txt` |
-| 2 | Michelin Guide: Born and Bred | Michelin restaurant entry | `documents/02_michelin_born_and_bred.txt` |
-| 3 | Michelin Guide: Gwanghwamun Gukbap | Michelin restaurant entry | `documents/03_michelin_gwanghwamun_gukbap.txt` |
-| 4 | Gangnam Myeonok official + Korean review notes | Official site + Korean review notes | `documents/04_gangnam_myeonok_official_korean.txt` |
-| 5 | Choigane Beoseot Maeuntang Kalguksu notes | Korean local/social notes | `documents/05_choigane_mushroom_kalguksu_korean_local.txt` |
-| 6 | Michelin Guide: Escondido | Michelin restaurant entry | `documents/06_michelin_escondido.txt` |
-| 7 | Myongwolgwan blog and YouTube notes | Korean blog + YouTube notes | `documents/07_myongwolgwan_korean_blog_youtube.txt` |
-| 8 | Imun Seolnongtang Michelin + Korean heritage notes | Michelin + Korean heritage notes | `documents/08_imun_seolnongtang_michelin_korean.txt` |
-| 9 | Hadongkwan Michelin + Korean review notes | Michelin + Korean review notes | `documents/09_hadongkwan_michelin_korean.txt` |
-| 10 | Woo Lae Oak Michelin + Visit Seoul notes | Michelin + Visit Seoul notes | `documents/10_wooraeok_michelin_visitseoul_korean.txt` |
-| 11 | Jinju Hoegwan Visit Seoul + blog/news notes | Visit Seoul + Korean blog/news | `documents/11_jinju_hoegwan_korean_visitseoul_blog.txt` |
-| 12 | Andongjang Visit Seoul source | Official Visit Seoul page | `documents/12_andongjang_visitseoul_old_chinese.txt` |
-| 13 | Yeokjeon Hoegwan Visit Seoul source | Official Visit Seoul page | `documents/13_yeokjeon_hoegwan_visitseoul.txt` |
-| 14 | Gwangjang Market food sources | Market guide + food/social notes | `documents/14_gwangjang_market_local_food_sources.txt` |
-| 15 | Euljiro back alleys Visit Korea article | Official Visit Korea article | `documents/15_euljiro_back_alley_korean_visitkorea.txt` |
-| 16 | Eater 38 Seoul filtered notes | English food guide | `documents/16_eater_38_seoul_filtered.txt` |
-| 17 | The Infatuation Seoul filtered notes | English restaurant guide | `documents/17_infatuation_seoul_filtered.txt` |
-| 18 | Reddit r/koreatravel food threads | Crowd-sourced forum notes | `documents/18_reddit_koreatravel_food_threads.txt` |
-| 19 | YouTube Seoul food vlog notes | Video/social source notes | `documents/19_youtube_seoul_food_vlogs_filtered.txt` |
-| 20 | Visit Seoul food/activity pages | Official tourism guide | `documents/20_visitseoul_food_activities_korean_official.txt` |
+| 1 | Allegra Im / Beli Instagram Seoul seed list | Social recommendation seed | https://www.instagram.com/p/DYNhqUpmFlb/; `documents/01_allegra_beli_instagram_local_seed.txt` |
+| 2 | Michelin Guide: Born and Bred | Michelin restaurant entry | https://guide.michelin.com/us/en/seoul-capital-area/kr-seoul/restaurant/born-and-bred; `documents/02_michelin_born_and_bred.txt` |
+| 3 | Michelin Guide: Gwanghwamun Gukbap | Michelin restaurant entry | https://guide.michelin.com/us/en/seoul-capital-area/kr-seoul/restaurant/gwanghwamun-gukbap; `documents/03_michelin_gwanghwamun_gukbap.txt` |
+| 4 | Gangnam Myeonok official + Korean review notes | Official site + Korean review notes | https://xn--939au0g88jc8l.net/; `documents/04_gangnam_myeonok_official_korean.txt` |
+| 5 | Choigane Beoseot Maeuntang Kalguksu notes | Korean local/social notes | https://www.instagram.com/p/DW_F0HHEX8W/; `documents/05_choigane_mushroom_kalguksu_korean_local.txt` |
+| 6 | Michelin Guide: Escondido | Michelin restaurant entry | https://guide.michelin.com/us/en/seoul-capital-area/kr-seoul/restaurant/escondido; `documents/06_michelin_escondido.txt` |
+| 7 | Myongwolgwan blog and YouTube notes | Korean blog + YouTube notes | https://daisy3690.tistory.com/113; `documents/07_myongwolgwan_korean_blog_youtube.txt` |
+| 8 | Imun Seolnongtang Michelin + Korean heritage notes | Michelin + Korean heritage notes | https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/imun-seolnongtang; `documents/08_imun_seolnongtang_michelin_korean.txt` |
+| 9 | Hadongkwan Michelin + Korean review notes | Michelin + Korean review notes | https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/hadongkwan; `documents/09_hadongkwan_michelin_korean.txt` |
+| 10 | Woo Lae Oak Michelin + Visit Seoul notes | Michelin + Visit Seoul notes | https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/woo-lae-oak; `documents/10_wooraeok_michelin_visitseoul_korean.txt` |
+| 11 | Jinju Hoegwan Visit Seoul + blog/news notes | Visit Seoul + Korean blog/news | https://korean.visitseoul.net/restaurants/%EC%A7%84%EC%A3%BC%ED%9A%8C%EA%B4%80-K/KOP012654; `documents/11_jinju_hoegwan_korean_visitseoul_blog.txt` |
+| 12 | Andongjang Visit Seoul source | Official Visit Seoul page | https://english.visitseoul.net/area/Andongjang-E/ENP012838; `documents/12_andongjang_visitseoul_old_chinese.txt` |
+| 13 | Yeokjeon Hoegwan Visit Seoul source | Official Visit Seoul page | https://english.visitseoul.net/area/yukjeon/ENPz0vpvy; `documents/13_yeokjeon_hoegwan_visitseoul.txt` |
+| 14 | Gwangjang Market food sources | Market guide + food/social notes | https://www.bonappetit.com/story/mayak-kimbap; `documents/14_gwangjang_market_local_food_sources.txt` |
+| 15 | Euljiro back alleys Visit Korea article | Official Visit Korea article | https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=089a4363-ae72-4b0c-840f-7d05ae4db98d; `documents/15_euljiro_back_alley_korean_visitkorea.txt` |
+| 16 | Eater 38 Seoul filtered notes | English food guide | https://www.eater.com/maps/best-seoul-restaurants-38; `documents/16_eater_38_seoul_filtered.txt` |
+| 17 | The Infatuation Seoul filtered notes | English restaurant guide | https://www.theinfatuation.com/seoul/guides/best-restaurants-seoul; `documents/17_infatuation_seoul_filtered.txt` |
+| 18 | Reddit r/koreatravel food threads | Crowd-sourced forum notes | https://www.reddit.com/r/koreatravel/comments/16uvtur/great_restaurants_in_myeongdong/; `documents/18_reddit_koreatravel_food_threads.txt` |
+| 19 | YouTube Seoul food vlog notes | Video/social source notes | https://www.youtube.com/results?search_query=seoul+old+restaurant+food+vlog; `documents/19_youtube_seoul_food_vlogs_filtered.txt` |
+| 20 | Visit Seoul food/activity pages | Official tourism guide | https://english.visitseoul.net/restaurants; `documents/20_visitseoul_food_activities_korean_official.txt` |
 
 ## Chunking Strategy
 
@@ -197,9 +197,9 @@ Full raw outputs are saved in `data/evaluation_results.json`.
 
 **Instance 1**
 
-- *What I gave the AI:* My domain, the current document corpus, and the planning requirements.
-- *What it produced:* A draft `planning.md` with domain framing, document table, chunking plan, retrieval plan, evaluation questions, anticipated challenges, architecture diagram, and AI tool plan.
-- *What I changed or overrode:* I reviewed the domain fit, asked for final considerations, and added stronger requirements around URL transparency, refusal behavior, and a harder cold-noodle evaluation question before implementation.
+- *What I gave the AI:* My chosen domain, the source corpus I had collected, and specific questions about whether the domain and `.txt` documents fit the assignment requirements.
+- *What it produced:* Feedback on missing inputs, possible grading traps, and a reviewable structure for the planning decisions I needed to approve before implementation.
+- *What I changed or overrode:* I kept the Korea travel domain, confirmed the use of manually collected `.txt` source notes, approved the core chunking/retrieval/evaluation decisions, and added stronger requirements around URL transparency, refusal behavior, and a harder cold-noodle evaluation question before implementation.
 
 **Instance 2**
 
